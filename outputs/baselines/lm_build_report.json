@@ -1,0 +1,20 @@
+{
+  "source_dir": "C:\\Python\\xai-finnews-sentiment\\data\\lexicons\\lm",
+  "outputs": {
+    "positive": "lexicons\\lm\\lm_positive.txt",
+    "negative": "lexicons\\lm\\lm_negative.txt",
+    "uncertainty": "lexicons\\lm\\lm_uncertainty.txt",
+    "litigious": "lexicons\\lm\\lm_litigious.txt",
+    "constraining": "lexicons\\lm\\lm_constraining.txt",
+    "superfluous": "lexicons\\lm\\lm_superfluous.txt"
+  },
+  "counts": {
+    "positive": 354,
+    "negative": 2355,
+    "uncertainty": 297,
+    "litigious": 905,
+    "constraining": 184,
+    "superfluous": 0,
+    "unknown": 54
+  }
+}

@@ -1,0 +1,3 @@
+models/finbert_finetuned/model.safetensors
+models/finbert_finetuned/checkpoint-312/model.safetensors
+/models/finbert_finetuned/checkpoint-312

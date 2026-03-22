@@ -1,0 +1,8 @@
+{
+  "industry": "Technology",
+  "ticker": "XLK",
+  "lag_order": 3,
+  "n_obs": 76,
+  "p_sent_to_ret": 0.34913834555931134,
+  "p_ret_to_sent": 0.13626418903706367
+}

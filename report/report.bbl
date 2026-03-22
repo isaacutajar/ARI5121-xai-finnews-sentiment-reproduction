@@ -1,0 +1,40 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Araci(2019)}]{araci2019finbert}
+Dogu Araci. 2019.
+\newblock \href {https://arxiv.org/abs/1908.10063} {{FinBERT}: Financial
+  sentiment analysis with pre-trained language models}.
+\newblock \emph{arXiv preprint arXiv:1908.10063}.
+
+\bibitem[{Cristescu and Mara(2025)}]{xai_finnews_2025}
+Brandas Cristescu and Iona Mara. 2025.
+\newblock \href {https://www.mdpi.com/2079-9292/14/23/4680} {Fine-tuning and
+  explaining finbert for sector-specific financial news: A reproducible
+  workflow}.
+\newblock \emph{Electronics}.
+
+\bibitem[{Hutto and Gilbert(2014)}]{hutto2014vader}
+Clayton Hutto and Eric Gilbert. 2014.
+\newblock {VADER}: A parsimonious rule-based model for sentiment analysis of
+  social media text.
+\newblock \emph{Proceedings of the International AAAI Conference on Web and
+  Social Media}, 8(1).
+
+\bibitem[{Maia et~al.(2018)Maia, Handschuh, Freitas, Davis, McDermott, Balahur,
+  and Zadeh}]{maia2018fiqa18}
+Macedo Maia, Siegfried Handschuh, Andr{\'e} Freitas, Brian Davis, Ross
+  McDermott, Alexandra Balahur, and Amir Zadeh. 2018.
+\newblock {FiQA}: An opinion-based question answering dataset.
+\newblock In \emph{Companion of the Web Conference 2018}, pages 211--218.
+
+\bibitem[{Malo et~al.(2014)Malo, Sinha, Korhonen, Wallenius, and
+  Takala}]{malo2014good}
+Pekka Malo, Ankur Sinha, Pekka Korhonen, Jyrki Wallenius, and Pyry Takala.
+  2014.
+\newblock Good debt or bad debt: Detecting semantic orientations in economic
+  texts.
+\newblock \emph{Journal of the Association for Information Science and
+  Technology}, 65(4):782--796.
+
+\end{thebibliography}

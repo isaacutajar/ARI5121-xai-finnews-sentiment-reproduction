@@ -1,0 +1,511 @@
+date,industry,sent_mean
+2025-03-05,Basic Materials,0.0
+2025-04-03,Basic Materials,0.0
+2025-05-07,Basic Materials,1.0
+2025-01-02,Communication Services,0.0
+2025-01-03,Communication Services,1.0
+2025-01-04,Communication Services,1.0
+2025-01-06,Communication Services,1.0
+2025-01-07,Communication Services,0.0
+2025-01-14,Communication Services,0.0
+2025-01-21,Communication Services,0.5
+2025-01-28,Communication Services,0.3333333333333333
+2025-02-03,Communication Services,-0.5
+2025-02-04,Communication Services,0.0
+2025-02-05,Communication Services,-1.0
+2025-02-06,Communication Services,0.0
+2025-02-07,Communication Services,-1.0
+2025-02-09,Communication Services,-1.0
+2025-02-10,Communication Services,1.0
+2025-02-11,Communication Services,0.3333333333333333
+2025-02-12,Communication Services,0.0
+2025-02-13,Communication Services,1.0
+2025-02-17,Communication Services,1.0
+2025-02-18,Communication Services,0.5
+2025-02-19,Communication Services,0.0
+2025-02-20,Communication Services,0.0
+2025-02-23,Communication Services,0.0
+2025-02-24,Communication Services,0.0
+2025-02-25,Communication Services,0.3333333333333333
+2025-02-26,Communication Services,0.0
+2025-03-04,Communication Services,0.2
+2025-03-05,Communication Services,0.0
+2025-03-06,Communication Services,-0.3333333333333333
+2025-03-07,Communication Services,0.0
+2025-03-08,Communication Services,-1.0
+2025-03-10,Communication Services,-1.0
+2025-03-11,Communication Services,0.6666666666666666
+2025-03-16,Communication Services,-1.0
+2025-03-17,Communication Services,1.0
+2025-03-18,Communication Services,0.0
+2025-03-21,Communication Services,0.0
+2025-03-22,Communication Services,1.0
+2025-03-24,Communication Services,0.0
+2025-03-25,Communication Services,0.0
+2025-03-26,Communication Services,-1.0
+2025-03-27,Communication Services,0.0
+2025-04-01,Communication Services,1.0
+2025-04-02,Communication Services,0.0
+2025-04-06,Communication Services,1.0
+2025-04-08,Communication Services,0.0
+2025-04-15,Communication Services,0.3333333333333333
+2025-04-22,Communication Services,0.0
+2025-04-29,Communication Services,0.0
+2025-05-06,Communication Services,0.3333333333333333
+2025-05-13,Communication Services,1.0
+2025-05-14,Communication Services,1.0
+2025-05-15,Communication Services,-0.5
+2025-05-20,Communication Services,0.3333333333333333
+2025-05-27,Communication Services,0.3333333333333333
+2025-06-03,Communication Services,0.3333333333333333
+2025-06-04,Communication Services,-1.0
+2025-06-08,Communication Services,1.0
+2025-06-10,Communication Services,0.3333333333333333
+2025-06-15,Communication Services,1.0
+2025-06-16,Communication Services,0.0
+2025-06-17,Communication Services,0.2
+2025-06-20,Communication Services,0.0
+2025-06-21,Communication Services,1.0
+2025-06-24,Communication Services,1.0
+2025-06-25,Communication Services,1.0
+2025-07-01,Communication Services,0.6666666666666666
+2025-01-02,Consumer Cyclical,1.0
+2025-01-03,Consumer Cyclical,0.0
+2025-01-04,Consumer Cyclical,1.0
+2025-01-07,Consumer Cyclical,-0.2
+2025-01-14,Consumer Cyclical,0.0
+2025-01-21,Consumer Cyclical,1.0
+2025-01-28,Consumer Cyclical,1.0
+2025-02-03,Consumer Cyclical,1.0
+2025-02-04,Consumer Cyclical,0.0
+2025-02-06,Consumer Cyclical,0.5
+2025-02-07,Consumer Cyclical,1.0
+2025-02-10,Consumer Cyclical,1.0
+2025-02-11,Consumer Cyclical,0.3333333333333333
+2025-02-12,Consumer Cyclical,-1.0
+2025-02-13,Consumer Cyclical,0.5
+2025-02-14,Consumer Cyclical,0.0
+2025-02-15,Consumer Cyclical,0.0
+2025-02-17,Consumer Cyclical,1.0
+2025-02-18,Consumer Cyclical,0.25
+2025-02-21,Consumer Cyclical,-1.0
+2025-02-23,Consumer Cyclical,-1.0
+2025-02-25,Consumer Cyclical,0.0
+2025-02-27,Consumer Cyclical,-1.0
+2025-03-04,Consumer Cyclical,-0.75
+2025-03-06,Consumer Cyclical,-1.0
+2025-03-08,Consumer Cyclical,-1.0
+2025-03-11,Consumer Cyclical,-1.0
+2025-03-13,Consumer Cyclical,0.0
+2025-03-14,Consumer Cyclical,0.0
+2025-03-17,Consumer Cyclical,1.0
+2025-03-18,Consumer Cyclical,0.3333333333333333
+2025-03-20,Consumer Cyclical,0.0
+2025-03-21,Consumer Cyclical,0.0
+2025-03-24,Consumer Cyclical,1.0
+2025-03-25,Consumer Cyclical,0.3333333333333333
+2025-04-01,Consumer Cyclical,-1.0
+2025-04-02,Consumer Cyclical,-1.0
+2025-04-08,Consumer Cyclical,0.0
+2025-04-15,Consumer Cyclical,0.0
+2025-04-22,Consumer Cyclical,0.0
+2025-04-29,Consumer Cyclical,-0.3333333333333333
+2025-05-06,Consumer Cyclical,0.0
+2025-05-11,Consumer Cyclical,0.0
+2025-05-13,Consumer Cyclical,0.3333333333333333
+2025-05-15,Consumer Cyclical,1.0
+2025-05-20,Consumer Cyclical,-0.3333333333333333
+2025-05-27,Consumer Cyclical,0.3333333333333333
+2025-06-03,Consumer Cyclical,0.5
+2025-06-06,Consumer Cyclical,1.0
+2025-06-10,Consumer Cyclical,0.0
+2025-06-11,Consumer Cyclical,0.5
+2025-06-14,Consumer Cyclical,-1.0
+2025-06-16,Consumer Cyclical,1.0
+2025-06-17,Consumer Cyclical,-0.6666666666666666
+2025-06-18,Consumer Cyclical,-1.0
+2025-06-24,Consumer Cyclical,0.3333333333333333
+2025-06-25,Consumer Cyclical,1.0
+2025-06-26,Consumer Cyclical,1.0
+2025-06-29,Consumer Cyclical,1.0
+2025-06-30,Consumer Cyclical,1.0
+2025-07-01,Consumer Cyclical,0.3333333333333333
+2025-02-07,Consumer Defensive,0.0
+2025-02-13,Consumer Defensive,0.0
+2025-02-21,Consumer Defensive,-1.0
+2025-03-01,Consumer Defensive,0.0
+2025-04-02,Consumer Defensive,0.0
+2025-04-07,Consumer Defensive,-1.0
+2025-05-05,Consumer Defensive,-1.0
+2025-06-05,Consumer Defensive,-1.0
+2025-01-02,Energy,-1.0
+2025-01-07,Energy,0.0
+2025-01-14,Energy,0.3333333333333333
+2025-01-21,Energy,0.0
+2025-01-28,Energy,-0.6666666666666666
+2025-02-04,Energy,0.0
+2025-02-11,Energy,-0.3333333333333333
+2025-02-18,Energy,0.3333333333333333
+2025-02-25,Energy,0.0
+2025-03-04,Energy,0.3333333333333333
+2025-03-11,Energy,0.0
+2025-03-18,Energy,0.0
+2025-03-25,Energy,0.0
+2025-04-01,Energy,0.0
+2025-04-08,Energy,0.3333333333333333
+2025-04-15,Energy,0.3333333333333333
+2025-04-22,Energy,0.0
+2025-04-29,Energy,0.0
+2025-05-06,Energy,0.0
+2025-05-13,Energy,-0.6666666666666666
+2025-05-20,Energy,0.6666666666666666
+2025-05-27,Energy,0.0
+2025-06-03,Energy,0.0
+2025-06-10,Energy,0.0
+2025-06-15,Energy,1.0
+2025-06-17,Energy,0.0
+2025-06-18,Energy,1.0
+2025-06-24,Energy,0.3333333333333333
+2025-07-01,Energy,-0.6666666666666666
+2025-01-03,Financial Services,1.0
+2025-01-06,Financial Services,0.0
+2025-01-07,Financial Services,-0.5
+2025-01-14,Financial Services,0.6666666666666666
+2025-01-21,Financial Services,0.0
+2025-01-28,Financial Services,0.5
+2025-02-04,Financial Services,0.3333333333333333
+2025-02-07,Financial Services,0.0
+2025-02-11,Financial Services,0.2
+2025-02-18,Financial Services,0.0
+2025-02-25,Financial Services,0.6666666666666666
+2025-03-04,Financial Services,0.0
+2025-03-10,Financial Services,-1.0
+2025-03-11,Financial Services,0.6666666666666666
+2025-03-14,Financial Services,0.0
+2025-03-15,Financial Services,1.0
+2025-03-18,Financial Services,-0.3333333333333333
+2025-03-25,Financial Services,0.75
+2025-03-26,Financial Services,1.0
+2025-03-27,Financial Services,0.0
+2025-04-01,Financial Services,0.4
+2025-04-05,Financial Services,0.0
+2025-04-08,Financial Services,-1.0
+2025-04-15,Financial Services,0.0
+2025-04-22,Financial Services,0.0
+2025-04-29,Financial Services,0.3333333333333333
+2025-05-06,Financial Services,-0.3333333333333333
+2025-05-13,Financial Services,0.5
+2025-05-20,Financial Services,0.0
+2025-05-27,Financial Services,1.0
+2025-06-02,Financial Services,-1.0
+2025-06-03,Financial Services,0.3333333333333333
+2025-06-05,Financial Services,1.0
+2025-06-10,Financial Services,0.25
+2025-06-12,Financial Services,-1.0
+2025-06-13,Financial Services,0.0
+2025-06-17,Financial Services,0.3333333333333333
+2025-06-24,Financial Services,0.5
+2025-06-27,Financial Services,1.0
+2025-06-28,Financial Services,1.0
+2025-07-01,Financial Services,0.0
+2025-01-04,Healthcare,-1.0
+2025-01-06,Healthcare,0.0
+2025-01-07,Healthcare,-0.3333333333333333
+2025-01-14,Healthcare,0.6666666666666666
+2025-01-21,Healthcare,0.0
+2025-01-28,Healthcare,-1.0
+2025-02-04,Healthcare,-0.25
+2025-02-07,Healthcare,-1.0
+2025-02-11,Healthcare,0.25
+2025-02-18,Healthcare,0.0
+2025-02-19,Healthcare,-1.0
+2025-02-21,Healthcare,-1.0
+2025-02-25,Healthcare,0.3333333333333333
+2025-03-03,Healthcare,0.0
+2025-03-04,Healthcare,-0.4
+2025-03-11,Healthcare,-0.3333333333333333
+2025-03-12,Healthcare,1.0
+2025-03-14,Healthcare,-1.0
+2025-03-15,Healthcare,0.0
+2025-03-18,Healthcare,0.0
+2025-03-21,Healthcare,-1.0
+2025-03-25,Healthcare,0.3333333333333333
+2025-03-26,Healthcare,1.0
+2025-04-01,Healthcare,-0.5
+2025-04-02,Healthcare,0.0
+2025-04-08,Healthcare,1.0
+2025-04-15,Healthcare,0.0
+2025-04-22,Healthcare,-0.5
+2025-04-29,Healthcare,0.5
+2025-05-02,Healthcare,1.0
+2025-05-06,Healthcare,-0.6666666666666666
+2025-05-09,Healthcare,1.0
+2025-05-13,Healthcare,-0.6666666666666666
+2025-05-14,Healthcare,1.0
+2025-05-20,Healthcare,-0.6666666666666666
+2025-05-27,Healthcare,1.0
+2025-06-03,Healthcare,-0.25
+2025-06-04,Healthcare,-1.0
+2025-06-10,Healthcare,0.3333333333333333
+2025-06-17,Healthcare,-0.3333333333333333
+2025-06-18,Healthcare,1.0
+2025-06-20,Healthcare,1.0
+2025-06-23,Healthcare,1.0
+2025-06-24,Healthcare,0.3333333333333333
+2025-06-25,Healthcare,1.0
+2025-06-26,Healthcare,1.0
+2025-06-27,Healthcare,1.0
+2025-07-01,Healthcare,-0.6666666666666666
+2025-01-04,Industrials,1.0
+2025-01-05,Industrials,0.5
+2025-01-06,Industrials,1.0
+2025-01-07,Industrials,-1.0
+2025-01-14,Industrials,1.0
+2025-01-21,Industrials,-0.3333333333333333
+2025-01-28,Industrials,-0.6666666666666666
+2025-02-04,Industrials,0.0
+2025-02-06,Industrials,1.0
+2025-02-10,Industrials,-1.0
+2025-02-11,Industrials,0.0
+2025-02-12,Industrials,0.0
+2025-02-18,Industrials,0.3333333333333333
+2025-02-20,Industrials,-1.0
+2025-02-24,Industrials,1.0
+2025-02-25,Industrials,0.3333333333333333
+2025-02-26,Industrials,1.0
+2025-03-04,Industrials,0.3333333333333333
+2025-03-08,Industrials,0.0
+2025-03-11,Industrials,-0.3333333333333333
+2025-03-18,Industrials,0.3333333333333333
+2025-03-23,Industrials,0.0
+2025-03-25,Industrials,0.3333333333333333
+2025-04-01,Industrials,0.3333333333333333
+2025-04-05,Industrials,0.0
+2025-04-08,Industrials,0.5
+2025-04-15,Industrials,-0.3333333333333333
+2025-04-22,Industrials,0.0
+2025-04-29,Industrials,0.6666666666666666
+2025-05-04,Industrials,1.0
+2025-05-06,Industrials,-0.3333333333333333
+2025-05-13,Industrials,0.3333333333333333
+2025-05-20,Industrials,-0.3333333333333333
+2025-05-27,Industrials,1.0
+2025-06-03,Industrials,0.0
+2025-06-10,Industrials,0.0
+2025-06-13,Industrials,0.0
+2025-06-17,Industrials,1.0
+2025-06-24,Industrials,0.0
+2025-06-25,Industrials,-0.5
+2025-06-28,Industrials,0.0
+2025-07-01,Industrials,0.0
+2025-01-07,Real Estate,0.3333333333333333
+2025-01-14,Real Estate,0.0
+2025-01-21,Real Estate,0.3333333333333333
+2025-01-28,Real Estate,-0.3333333333333333
+2025-02-04,Real Estate,-0.3333333333333333
+2025-02-11,Real Estate,0.0
+2025-02-18,Real Estate,-0.6666666666666666
+2025-02-25,Real Estate,0.6666666666666666
+2025-02-27,Real Estate,1.0
+2025-03-04,Real Estate,0.5
+2025-03-11,Real Estate,0.0
+2025-03-18,Real Estate,0.6666666666666666
+2025-03-25,Real Estate,-0.6666666666666666
+2025-04-01,Real Estate,0.6666666666666666
+2025-04-08,Real Estate,-0.6666666666666666
+2025-04-15,Real Estate,0.5
+2025-04-22,Real Estate,-1.0
+2025-04-29,Real Estate,0.5
+2025-05-06,Real Estate,0.0
+2025-05-13,Real Estate,0.0
+2025-05-20,Real Estate,0.3333333333333333
+2025-05-27,Real Estate,0.6666666666666666
+2025-06-03,Real Estate,0.3333333333333333
+2025-06-10,Real Estate,0.6666666666666666
+2025-06-17,Real Estate,0.6666666666666666
+2025-06-24,Real Estate,0.6666666666666666
+2025-07-01,Real Estate,0.3333333333333333
+2025-01-06,Services,0.0
+2025-01-07,Services,-1.0
+2025-01-09,Services,0.5
+2025-01-17,Services,0.0
+2025-01-25,Services,0.0
+2025-01-27,Services,1.0
+2025-02-01,Services,0.0
+2025-02-17,Services,1.0
+2025-02-25,Services,0.0
+2025-03-01,Services,0.0
+2025-03-03,Services,1.0
+2025-03-08,Services,-1.0
+2025-03-09,Services,0.0
+2025-03-11,Services,0.0
+2025-03-14,Services,-0.5
+2025-03-22,Services,-1.0
+2025-03-23,Services,1.0
+2025-03-25,Services,0.0
+2025-03-28,Services,0.3333333333333333
+2025-04-06,Services,0.0
+2025-04-07,Services,0.0
+2025-04-11,Services,0.0
+2025-04-14,Services,-0.5
+2025-04-17,Services,0.0
+2025-04-21,Services,-1.0
+2025-04-27,Services,0.0
+2025-05-05,Services,-1.0
+2025-05-06,Services,0.0
+2025-05-11,Services,0.0
+2025-05-12,Services,1.0
+2025-05-13,Services,-1.0
+2025-05-15,Services,1.0
+2025-05-18,Services,0.0
+2025-05-19,Services,0.0
+2025-05-27,Services,-1.0
+2025-06-03,Services,0.0
+2025-06-09,Services,-1.0
+2025-06-10,Services,-1.0
+2025-06-17,Services,-0.3333333333333333
+2025-06-23,Services,-1.0
+2025-06-28,Services,-1.0
+2025-06-29,Services,0.0
+2025-01-02,Technology,0.1
+2025-01-03,Technology,0.8421052631578947
+2025-01-04,Technology,0.5263157894736842
+2025-01-05,Technology,0.5294117647058824
+2025-01-06,Technology,0.3157894736842105
+2025-01-07,Technology,-0.4
+2025-01-08,Technology,-0.3333333333333333
+2025-02-02,Technology,0.16666666666666666
+2025-02-03,Technology,0.0
+2025-02-04,Technology,0.3076923076923077
+2025-02-05,Technology,0.2777777777777778
+2025-02-06,Technology,0.2727272727272727
+2025-02-07,Technology,0.38461538461538464
+2025-02-08,Technology,0.25
+2025-02-09,Technology,0.0
+2025-02-10,Technology,0.35714285714285715
+2025-02-11,Technology,0.1
+2025-02-12,Technology,0.3333333333333333
+2025-02-13,Technology,0.18181818181818182
+2025-02-14,Technology,0.5714285714285714
+2025-02-15,Technology,0.4
+2025-02-16,Technology,0.3333333333333333
+2025-02-17,Technology,0.25
+2025-02-18,Technology,0.6363636363636364
+2025-02-19,Technology,0.15384615384615385
+2025-02-20,Technology,0.26666666666666666
+2025-02-21,Technology,0.0
+2025-02-22,Technology,-0.2222222222222222
+2025-02-23,Technology,0.4
+2025-02-24,Technology,-0.23529411764705882
+2025-02-25,Technology,-0.29411764705882354
+2025-02-26,Technology,0.3333333333333333
+2025-02-27,Technology,0.0
+2025-03-01,Technology,-0.3
+2025-03-02,Technology,-0.14285714285714285
+2025-03-03,Technology,-0.42105263157894735
+2025-03-04,Technology,-0.14285714285714285
+2025-03-05,Technology,-0.07142857142857142
+2025-03-06,Technology,-0.08333333333333333
+2025-03-07,Technology,-0.15789473684210525
+2025-03-08,Technology,0.0
+2025-03-09,Technology,0.0
+2025-03-10,Technology,0.0
+2025-03-11,Technology,-0.21052631578947367
+2025-03-12,Technology,-0.125
+2025-03-13,Technology,0.16666666666666666
+2025-03-14,Technology,0.5
+2025-03-15,Technology,0.0
+2025-03-16,Technology,0.0
+2025-03-17,Technology,0.0
+2025-03-18,Technology,0.08333333333333333
+2025-03-19,Technology,0.7222222222222222
+2025-03-20,Technology,0.23076923076923078
+2025-03-21,Technology,-0.125
+2025-03-22,Technology,0.25
+2025-03-23,Technology,0.0
+2025-03-24,Technology,0.7058823529411765
+2025-03-25,Technology,0.7692307692307693
+2025-03-26,Technology,0.0
+2025-03-27,Technology,-0.3333333333333333
+2025-03-28,Technology,-0.45454545454545453
+2025-04-01,Technology,0.08333333333333333
+2025-04-02,Technology,0.0
+2025-04-03,Technology,-0.2631578947368421
+2025-04-04,Technology,-0.3
+2025-04-05,Technology,0.3333333333333333
+2025-04-06,Technology,-0.25
+2025-04-07,Technology,-0.06666666666666667
+2025-04-08,Technology,0.2222222222222222
+2025-05-02,Technology,0.38461538461538464
+2025-05-03,Technology,0.2
+2025-05-04,Technology,0.6666666666666666
+2025-05-05,Technology,0.13333333333333333
+2025-05-06,Technology,0.0
+2025-05-07,Technology,0.5833333333333334
+2025-05-08,Technology,0.6923076923076923
+2025-05-09,Technology,0.0
+2025-05-10,Technology,0.5
+2025-05-11,Technology,0.0
+2025-05-12,Technology,0.26666666666666666
+2025-05-13,Technology,0.5
+2025-05-14,Technology,0.5882352941176471
+2025-05-15,Technology,0.16666666666666666
+2025-05-31,Technology,0.75
+2025-06-01,Technology,0.0
+2025-06-02,Technology,0.2727272727272727
+2025-06-03,Technology,0.42857142857142855
+2025-06-04,Technology,0.5
+2025-06-05,Technology,0.625
+2025-06-06,Technology,0.45454545454545453
+2025-06-07,Technology,0.75
+2025-06-08,Technology,0.25
+2025-06-09,Technology,0.3333333333333333
+2025-06-10,Technology,0.8
+2025-06-11,Technology,0.0
+2025-06-12,Technology,0.2
+2025-06-13,Technology,0.5
+2025-06-14,Technology,-0.2
+2025-06-15,Technology,-0.25
+2025-06-16,Technology,0.6
+2025-06-17,Technology,0.375
+2025-06-18,Technology,0.7
+2025-06-19,Technology,0.16666666666666666
+2025-06-20,Technology,0.2727272727272727
+2025-06-21,Technology,0.0
+2025-06-22,Technology,1.0
+2025-06-23,Technology,0.125
+2025-06-24,Technology,0.7692307692307693
+2025-06-25,Technology,0.4666666666666667
+2025-06-26,Technology,0.6923076923076923
+2025-06-27,Technology,0.7692307692307693
+2025-06-28,Technology,0.4
+2025-06-29,Technology,0.5714285714285714
+2025-06-30,Technology,0.375
+2025-01-21,Unknown,0.0
+2025-05-13,Unknown,0.0
+2025-01-07,Utilities,-0.5
+2025-01-14,Utilities,-0.3333333333333333
+2025-01-21,Utilities,0.0
+2025-01-28,Utilities,0.0
+2025-02-04,Utilities,0.0
+2025-02-11,Utilities,0.3333333333333333
+2025-02-18,Utilities,0.3333333333333333
+2025-02-25,Utilities,-1.0
+2025-03-04,Utilities,0.0
+2025-03-11,Utilities,0.0
+2025-03-18,Utilities,0.0
+2025-03-25,Utilities,1.0
+2025-04-01,Utilities,-0.3333333333333333
+2025-04-08,Utilities,0.0
+2025-04-15,Utilities,0.6666666666666666
+2025-04-22,Utilities,1.0
+2025-04-29,Utilities,0.3333333333333333
+2025-05-06,Utilities,-0.6666666666666666
+2025-05-13,Utilities,0.0
+2025-05-20,Utilities,1.0
+2025-05-27,Utilities,0.6666666666666666
+2025-06-03,Utilities,0.0
+2025-06-10,Utilities,0.0
+2025-06-17,Utilities,1.0
+2025-06-24,Utilities,1.0
+2025-07-01,Utilities,0.3333333333333333

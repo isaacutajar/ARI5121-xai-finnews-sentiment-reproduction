@@ -1,0 +1,13 @@
+{
+  "industry": "Technology",
+  "ticker": "XLK",
+  "cagr": -0.017640103561801235,
+  "vol_ann": 0.05615616079216375,
+  "sharpe": -0.2886620961241793,
+  "max_dd": -0.02378064575611616,
+  "hit_rate": 0.0759493670886076,
+  "n_days": 79,
+  "z_thr": 1.0,
+  "cost_bps": 5,
+  "variant": "long_only"
+}

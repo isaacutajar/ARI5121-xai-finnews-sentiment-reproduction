@@ -1,0 +1,9 @@
+{
+  "raw_marketaux_json_exists": true,
+  "lm_lexicon_dir_exists": true,
+  "gold_annotations_exists": true,
+  "bench_fpb_exists": true,
+  "bench_fiqa_exists": true,
+  "marketaux_articles_csv_exists": true,
+  "marketaux_pairs_csv_exists": true
+}

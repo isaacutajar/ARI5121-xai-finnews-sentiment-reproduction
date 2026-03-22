@@ -1,0 +1,36 @@
+RAW
+├─ data/raw/marketaux/news.json
+│
+├─ 02_ingest_marketaux.py → data/processed/marketaux/*.csv
+│    └─ 02b_make_annotation_batches.py → data/annotation/batches/*.csv
+│         └─ (human) annotate → data/annotation/annotated_articles.csv (GOLD)
+│
+├─ 01_fetch_benchmarks.py → FPB.csv, FiQA_headlines.csv
+│
+├─ 15_data_leakage_guard.py → outputs/leakage/*  [EXCLUDE GOLD FROM TRAIN]
+│
+├─ Baselines (EN):
+│   ├─ 04_lexicon_baselines.py
+│   ├─ 05_lr_shap_benchmarks.py
+│   ├─ 05b_ebm_gam_benchmarks.py
+│   └─ 06_finbert_benchmarks.py
+│
+├─ 07_marketaux_weaklabel_lr.py (all industries) → outputs/weaklabel_lr/*
+│
+├─ 07b_xlm_infer_marketaux.py (non-EN) → outputs/xlm_infer_*.*
+│
+├─ 08_eval_on_manual_annotations.py → outputs/eval/*
+│
+├─ 09_plot_confmats.py → outputs/fig_confmats/*
+│
+├─ 10_shap_regime_shift_all.py → outputs/regime/*
+│   └─ 10_weak_label_bias_audit.py → outputs/bias_audit/*
+│
+├─ Deep XAI & Hybrid:
+│   ├─ 16_deep_explain_finbert.py → outputs/deep_xai/*
+│   └─ 17_hybrid_embeddings_lr.py → outputs/hybrid/*
+│
+└─ Econometrics & Strategies:
+    ├─ 11_event_study.py → outputs/event_study/*
+    ├─ 12_granger_var.py → outputs/granger/*
+    └─ 13_backtest_sector_strategies.py → outputs/backtest/*

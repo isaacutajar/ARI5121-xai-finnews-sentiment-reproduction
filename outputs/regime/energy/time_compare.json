@@ -1,0 +1,302 @@
+{
+  "macro_spearman": 0.6219512195121951,
+  "macro_jaccard@50": 0.9761904761904762,
+  "macro_jaccard@100": 0.9761904761904762,
+  "macro_jsd": 0.0025821567364968695,
+  "per_class": [
+    {
+      "class": 0,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0017203456205584055
+    },
+    {
+      "class": 1,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.000371530044893914
+    },
+    {
+      "class": 2,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0007426297615950584
+    },
+    {
+      "class": 3,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 2.731442608874358e-05
+    },
+    {
+      "class": 4,
+      "spearman": -0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0062685911777797055
+    },
+    {
+      "class": 5,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0007789456290297701
+    },
+    {
+      "class": 6,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0014594640590562687
+    },
+    {
+      "class": 7,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0006220888446518761
+    },
+    {
+      "class": 8,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0003871044881272915
+    },
+    {
+      "class": 9,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0004487911842210139
+    },
+    {
+      "class": 10,
+      "spearman": -0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.007803022776471103
+    },
+    {
+      "class": 11,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.00488250504361502
+    },
+    {
+      "class": 12,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0005077856995370564
+    },
+    {
+      "class": 13,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0002481450240053529
+    },
+    {
+      "class": 14,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0018926875684958423
+    },
+    {
+      "class": 15,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0029143168242165597
+    },
+    {
+      "class": 16,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0066689708259042805
+    },
+    {
+      "class": 17,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0005555455180640239
+    },
+    {
+      "class": 18,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 8.85249304670793e-06
+    },
+    {
+      "class": 19,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0006154454363090626
+    },
+    {
+      "class": 20,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0003026832928482239
+    },
+    {
+      "class": 21,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.004133507248463419
+    },
+    {
+      "class": 22,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0037303255122457138
+    },
+    {
+      "class": 23,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0021947922207807423
+    },
+    {
+      "class": 24,
+      "spearman": -0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.005688382538442732
+    },
+    {
+      "class": 25,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0008201776186394525
+    },
+    {
+      "class": 26,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 7.333207011758655e-05
+    },
+    {
+      "class": 27,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.002080985628760416
+    },
+    {
+      "class": 28,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0021122215186040404
+    },
+    {
+      "class": 29,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0016081579720282964
+    },
+    {
+      "class": 30,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0007885785806528244
+    },
+    {
+      "class": 31,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0038740231948301783
+    },
+    {
+      "class": 32,
+      "spearman": -0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.004243640323538988
+    },
+    {
+      "class": 33,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.009485868440124542
+    },
+    {
+      "class": 34,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.0012724754245749669
+    },
+    {
+      "class": 35,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.005108505057925751
+    },
+    {
+      "class": 36,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.003862381333324954
+    },
+    {
+      "class": 37,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.002137950670754343
+    },
+    {
+      "class": 38,
+      "spearman": 1.0,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 4.1325310396523536e-05
+    },
+    {
+      "class": 39,
+      "spearman": 0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.004712588508303739
+    },
+    {
+      "class": 40,
+      "spearman": -0.5,
+      "jaccard@50": 1.0,
+      "jaccard@100": 1.0,
+      "jsd": 0.008672441285347157
+    },
+    {
+      "class": 41,
+      "spearman": NaN,
+      "jaccard@50": 0.0,
+      "jaccard@100": 0.0,
+      "jsd": NaN
+    }
+  ]
+}

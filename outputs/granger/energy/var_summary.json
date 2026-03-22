@@ -1,0 +1,8 @@
+{
+  "industry": "Energy",
+  "ticker": "XLE",
+  "lag_order": 0,
+  "n_obs": 28,
+  "p_sent_to_ret": 1.0,
+  "p_ret_to_sent": 1.0
+}

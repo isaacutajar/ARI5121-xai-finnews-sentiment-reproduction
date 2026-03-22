@@ -1,0 +1,13 @@
+{
+  "industry": "Utilities",
+  "ticker": "XLU",
+  "cagr": 0.0,
+  "vol_ann": 0.0,
+  "sharpe": 0.0,
+  "max_dd": 0.0,
+  "hit_rate": 0.0,
+  "n_days": 26,
+  "z_thr": 1.0,
+  "cost_bps": 5,
+  "variant": "long_only"
+}

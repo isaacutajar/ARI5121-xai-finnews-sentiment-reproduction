@@ -1,0 +1,5 @@
+industry,ticker,model,side,window,n_events,car_mean,tstat
+Communication Services,XLC,Market,POS,"[-1,+3]",0,,
+Communication Services,XLC,Market,POS,"[-5,+5]",0,,
+Communication Services,XLC,Market,NEG,"[-1,+3]",2,-0.002102960719062834,-0.42909933758655366
+Communication Services,XLC,Market,NEG,"[-5,+5]",2,0.0014996762507655734,0.2643602127528094

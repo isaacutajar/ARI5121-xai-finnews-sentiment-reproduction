@@ -1,0 +1,8 @@
+{
+  "model": "ProsusAI/finbert",
+  "id2label": {
+    "0": "positive",
+    "1": "negative",
+    "2": "neutral"
+  }
+}

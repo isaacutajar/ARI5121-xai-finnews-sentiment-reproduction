@@ -1,0 +1,8 @@
+{
+  "industry": "Consumer Cyclical",
+  "ticker": "XLY",
+  "lag_order": 1,
+  "n_obs": 52,
+  "p_sent_to_ret": 0.4965033431753667,
+  "p_ret_to_sent": 0.25164221179728374
+}

@@ -1,0 +1,54 @@
+almost
+always
+apparently
+appeared
+appearing
+appears
+best
+clearly
+conceivable
+constraining txt terms
+could
+definitely
+definitively
+depend
+depended
+depending
+depends
+highest
+litigious txt terms
+loughran mcdonald category lists generated from master dictionary xlsx
+lowest
+may
+maybe
+might
+modal strong txt terms
+modal weak txt terms
+must
+nearly
+negative txt terms
+never
+occasionally
+perhaps
+positive txt terms
+possible
+possibly
+seldom
+seldomly
+sometimes
+somewhat
+strongly
+suggest
+suggests
+unambiguously
+uncertain
+uncertainly
+uncertainty txt terms
+uncompromising
+undisputed
+undoubtedly
+unequivocal
+unequivocally
+unparalleled
+unsurpassed
+will

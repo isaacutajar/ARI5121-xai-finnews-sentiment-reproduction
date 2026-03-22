@@ -1,0 +1,84 @@
+{
+  "label_source": "VADER",
+  "overall_n": 2168,
+  "by_industry": {
+    "Basic Materials": {
+      "n": 3,
+      "unique_labels": 3,
+      "trained": false,
+      "used_overall_fallback": true
+    },
+    "Communication Services": {
+      "n": 142,
+      "unique_labels": 3,
+      "trained": true,
+      "used_overall_fallback": false
+    },
+    "Consumer Cyclical": {
+      "n": 129,
+      "unique_labels": 3,
+      "trained": true,
+      "used_overall_fallback": false
+    },
+    "Consumer Defensive": {
+      "n": 8,
+      "unique_labels": 3,
+      "trained": false,
+      "used_overall_fallback": true
+    },
+    "Energy": {
+      "n": 83,
+      "unique_labels": 3,
+      "trained": true,
+      "used_overall_fallback": false
+    },
+    "Financial Services": {
+      "n": 95,
+      "unique_labels": 3,
+      "trained": true,
+      "used_overall_fallback": false
+    },
+    "Healthcare": {
+      "n": 106,
+      "unique_labels": 3,
+      "trained": true,
+      "used_overall_fallback": false
+    },
+    "Industrials": {
+      "n": 92,
+      "unique_labels": 3,
+      "trained": true,
+      "used_overall_fallback": false
+    },
+    "Real Estate": {
+      "n": 76,
+      "unique_labels": 3,
+      "trained": true,
+      "used_overall_fallback": false
+    },
+    "Services": {
+      "n": 61,
+      "unique_labels": 3,
+      "trained": true,
+      "used_overall_fallback": false
+    },
+    "Technology": {
+      "n": 1294,
+      "unique_labels": 3,
+      "trained": true,
+      "used_overall_fallback": false
+    },
+    "Unknown": {
+      "n": 2,
+      "unique_labels": 2,
+      "trained": false,
+      "used_overall_fallback": true
+    },
+    "Utilities": {
+      "n": 77,
+      "unique_labels": 3,
+      "trained": true,
+      "used_overall_fallback": false
+    }
+  }
+}

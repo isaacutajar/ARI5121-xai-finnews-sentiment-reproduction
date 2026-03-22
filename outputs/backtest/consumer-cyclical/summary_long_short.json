@@ -1,0 +1,13 @@
+{
+  "industry": "Consumer Cyclical",
+  "ticker": "XLY",
+  "cagr": -0.03687045767626684,
+  "vol_ann": 0.054858762909427074,
+  "sharpe": -0.6572023125894523,
+  "max_dd": -0.025620421755965128,
+  "hit_rate": 0.05660377358490566,
+  "n_days": 53,
+  "z_thr": 1.0,
+  "cost_bps": 5,
+  "variant": "long_short"
+}

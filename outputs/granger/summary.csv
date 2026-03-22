@@ -1,0 +1,10 @@
+industry,ticker,lag_order,n_obs,p_sent_to_ret,p_ret_to_sent
+Communication Services,XLC,0,56,1.0,1.0
+Consumer Cyclical,XLY,1,52,0.4965033431753667,0.25164221179728374
+Energy,XLE,0,28,1.0,1.0
+Financial Services,XLF,0,38,1.0,1.0
+Healthcare,XLV,0,46,1.0,1.0
+Industrials,XLI,0,35,1.0,1.0
+Real Estate,XLRE,0,27,1.0,1.0
+Utilities,XLU,0,26,1.0,1.0
+Technology,XLK,3,76,0.34913834555931134,0.13626418903706367

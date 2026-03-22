@@ -1,0 +1,9 @@
+{
+  "n_non_en": 8,
+  "languages": {
+    "es": 4,
+    "eu": 3,
+    "it": 1
+  },
+  "model_used": "nlptown"
+}

@@ -1,0 +1,601 @@
+article_id,y,rationale,scope
+9063aa29-5ade-439c-b241-51bc8d6adc53,1,"Partnership with a national foodservice provider suggests a positive business development, but is a general business update with no explicit mention of financial impact.",company
+7f4b4382-2bc0-440b-af18-43b3022aee67,1,"Earnings call transcript is a neutral, factual document. The sentiment is based on the content of the discussion, which isn't provided.",company
+01253f79-5bfc-47f7-a4e0-76df41d5859d,2,"Title ""A Bull Case Theory"" is explicitly positive.",company
+5f0afc5b-b593-4885-81b0-1d8f213547ab,2,"Announces a distribution (dividend), which is a positive financial event for shareholders.",company
+04b7174b-323a-4663-a621-0c32b18a1596,2,"Title includes ""bondissent"" (jump/soar) and mentions the positive effect of lower tariffs.",market
+90ded1d5-0dee-4918-abb4-a2640928a750,0,"Title and description mention ""plongent"" (plunge) and ""proche du krach"" (near a crash).",market
+740e7f60-50df-44b7-a7ea-5327879db58d,2,"Partnership with a large company like L'Oréal to leverage AI is a positive development.",company
+7c58c6af-afb9-4456-9a40-e5e411f9a1e6,2,"Title mentions ""rebondissent"" (rebound/bounce back) for global stocks.",market
+d5d83865-dd0f-434f-9f69-e584a2eec29f,1,"Earnings call transcript is a neutral, factual document. The sentiment is based on the content of the discussion, which isn't provided.",company
+51009a5c-58d2-46ad-a56f-c50fd1c580a4,1,"Announcing results is a neutral event. The sentiment is based on the results themselves, which aren't provided.",company
+7b4dda2f-8b20-4d5d-bc8b-a4e6ae3ff07d,0,"Title ""Sorry American firms..."" and content about losses for US firms points to a negative sentiment for the US market/companies mentioned.",market
+39a9789a-541a-4033-8caf-11671bb8ca82,0,"Title and description explicitly state stocks ""fall"" and ""tumble"".",market
+5d6fbde2-c80b-4406-947a-2be9ad400bda,1,"Analysis of potential winners and losers is a neutral, forward-looking article without a clear positive or negative event for a specific company.",market
+d5d8a262-3f5c-4d36-a45d-b5fe11bdc4e4,1,"Headline ""pushing this... higher"" is positive, but the context is an analysis of why this is happening, which is a neutral article type.",company
+7d23c802-1307-4536-b2c8-57214ed86887,1,"Providing an update to financing is a neutral business communication.",company
+83e2463e-8384-40cc-83ac-0ba894ee9731,0,"Title and description explicitly state stocks ""plummet"" amid recession fears.",market
+ceda9be0-bb39-4a15-aaf5-f04feb75e3f7,0,"Description explicitly mentions ""closed with losses"" and ""declines"".",market
+1a27e7d1-5b19-48e3-9eef-f36e2037773d,1,"Announcing an upcoming webinar is a neutral corporate update.",company
+3063d4c9-5238-46cc-8f49-9cec0de92fd2,0,"The article states the stock ""is a Hold"" despite beating guidance, and mentions negative metrics like revenue and gross margin falling.",company
+dc717fb4-a176-4631-810a-8509737e0758,0,"The headline and description explicitly state the company filed for bankruptcy.",company
+bb686dbc-f3a0-440b-97d9-8a5dea2753fc,0,"The headline explicitly states futures ""slip"" due to inflation and trade plan issues.",market
+dea503ee-1220-4139-9f16-3e20d4bd2be7,2,"The company ""Inks $250M"" investment, which is a significant positive financial event.",company
+07879ce7-130c-44b9-b857-fadb16c78b57,0,"SEC suing a person/company is a negative event.",company
+8759b759-58cb-4467-98a6-f88b0114a8e3,0,"The headline explicitly states futures ""slide"" as investors brace for tariffs.",market
+81e3280f-9cc5-4c59-ba9f-15425991bc78,2,"The title mentions ""better-than-expected earnings"" and ""moving Higher"".",company
+6964f0c7-b7ae-458a-9cc8-e5e5bfafc75a,2,"The title and description mention the company ""Beats"" a market upswing, which is positive for the company's performance.",company
+fcc9e94f-dbae-42df-936b-296f6da987bf,0,"The title and description explicitly state stocks ""plummet"" and major indices were ""down"".",market
+2a35658c-86cb-40cd-b923-bdc3c68b1124,1,"This is a general list of highest paid CEOs, which is a neutral news item about corporate compensation.",company
+6dd22d20-8312-43dd-b785-f7a9d4dda83c,1,"The article is a neutral investment analysis titled ""there are better choices"". While it mentions positive aspects, the overall recommendation is ""Hold"", indicating a neutral stance.",company
+72fb5f9f-7364-4593-bda0-511a948fa9e5,1,"Providing balance sheet information and announcing NAV is a neutral, routine financial disclosure.",company
+d245f56e-39f0-4aaf-a7bd-c69b2f214828,1,"Announcing tax package availability is a neutral, routine corporate announcement.",company
+fd8daafa-9d73-4f30-b568-607123bc099e,1,"Announcing the date of an earnings release is a neutral, routine corporate announcement.",company
+2ce08712-599f-456c-960d-61a9e8d1976e,2,"A share buyback program is a positive event for shareholders.",company
+188d6ad1-c4c1-4b61-b1f8-c7dfde534881,2,"Announcing a quarterly dividend is a positive event for shareholders.",company
+8da7c6d4-d686-46ea-a92c-f3f8b9924baf,2,"The headline states funding round, which is a positive event for a company.",company
+d47e8162-085f-4776-bc7d-740b3f5ae587,2,"Plan to take companies public is generally a positive development.",company
+6f17629b-aa16-47f4-9d61-6b18aa96f6dd,0,"The company is discontinuing operations, which is a negative event.",company
+7c15dee0-931b-47ba-8a8f-f053cc57e1e6,1,"Announcing a partnership is a neutral business update without explicit financial or market impact.",company
+39923fa6-7cdd-4bc4-9e6c-938d7b573c38,1,"Announcing the date of an earnings release is a neutral, routine corporate announcement.",company
+93fb5d53-4867-4739-8277-2004fbacef3b,2,"Declaring a quarterly dividend is a positive event for shareholders.",company
+ee129160-72b8-4435-8121-f6fcb22e5274,1,"Earnings call transcript is a neutral, factual document. The sentiment is based on the content of the discussion, which isn't provided.",company
+c1ab9914-e583-4518-b33a-008455a61c18,0,"Director selling a large amount of stock can be perceived as negative news.",company
+5e1a997e-c381-4bfb-8e7d-f2e62826fed7,2,"The headline explicitly states ""Futures Rise"".",market
+66102ad6-ec5d-40f8-9e87-5002ed8fbea9,2,"The title mentions ""gains"" and ""upbeat earnings"", which are positive indicators.",market
+c124309a-fadd-4ec7-ac8c-77518c07a4e4,1,"Earnings call presentation is a neutral, factual document. The sentiment is based on the content of the discussion, which isn't provided.",company
+d068e5b0-7e7f-41f2-a288-18f45289a443,2,"The title mentions ""Attractive"" and ""Continued Growth"", which are positive terms.",company
+84f76dbd-0bfa-4342-8bb5-5357fcf7655a,1,"Earnings call transcript is a neutral, factual document. The sentiment is based on the content of the discussion, which isn't provided.",company
+a822dc94-89e8-4c8f-9f2f-69ccadac05ab,1,"Conference transcript is a neutral, factual document. The sentiment is based on the content of the discussion, which isn't provided.",company
+5a5969cc-0ae0-4aa4-9080-3ec8a0579b4f,2,"The headline explicitly states ""Futures Gain"".",market
+7ec8e47f-9e95-4bea-8ad2-9dcfc0193a2f,2,"The title mentions ""Best Consulting Stocks to Buy"".",company
+0464fe84-88c5-4446-929c-4ce01ee8e98f,2,"Declaring a quarterly dividend is a positive event for shareholders.",company
+2a5d16f2-1d81-41e2-ad8f-a601827ff83e,1,"Announcing participation in an event is a neutral corporate update.",company
+bf4dd9b8-7c11-4339-a5ae-6d4d9237498b,1,"Earnings call presentation is a neutral, factual document. The sentiment is based on the content of the discussion, which isn't provided.",company
+7c5f99ef-86af-4268-bbde-c775390449c4,1,"Earnings call presentation is a neutral, factual document. The sentiment is based on the content of the discussion, which isn't provided.",company
+43c6e072-99cb-4783-814b-e74333b97aba,2,"The headline mentions a ""historic win streak"" for the S&P 500.",market
+9162cd1a-eb0e-4f5a-90f2-f73307380c09,2,"Awarded the highest Platinum rating for sustainability is a positive development for the company.",company
+cd592b83-d58a-4e04-b017-27c0bc74bfd4,2,"The headline mentions ""A Good Play On Reshoring"" and the description mentions ""solid industrial REIT option with steady growth"".",company
+dda31092-855d-445c-af18-a27c638cb0b3,0,"The article explicitly states the stock ""Moves -1.28%"" and provides no other positive information.",company
+a93de1ee-51fc-4f95-9e1d-2a01f2bf9234,2,"Acquiring a facility for $67M is a positive business development, indicating growth/expansion.",company
+f235f150-b2a0-4eea-9215-4d709bab5510,2,"The title explicitly states the stock ""Advances"" while the market declines, a positive sign.",company
+e2264836-506a-4df4-858f-f8e7c6a4eb8e,2,"The title mentions ""Top 10 Stocks to Buy"", which is a positive recommendation.",company
+4077c956-e44a-4c37-8029-4b0d1d2083d5,2,"The article mentions ""declaration of Preferred Stock"" which is a positive event.",company
+c8ae0ead-5a84-4cd6-9aa8-fc7895a245f6,1,"This is a general analysis of why investors like healthcare shares, which is a neutral article type without a specific positive/negative event.",company
+381881ff-e6b1-48f9-a320-c6c939f95587,0,"This is a notice about a pending class action lawsuit, which is a negative event for the company.",company
+112e0c69-ec94-42b8-ae46-2a659bddfb4f,1,"This is a general analysis of a stock without an explicit positive or negative event.",company
+aad03b0f-e156-4661-b24f-8bad25dbd543,1,"This is a general analysis of a stock without an explicit positive or negative event.",company
+15eca5de-1f18-4da8-8472-07010908db05,0,"This is an alert about a class action lawsuit for shareholders with losses, a negative event.",company
+4ea6ef4f-17ab-49ca-ab1e-88472e1c75fa,2,"The title mentions ""better-than-expected earnings"" and stocks ""Moving Higher"".",company
+502475e3-c118-4b5f-b4b2-1d5c75631a42,2,"Recognized as an Honor Roll Company for gender parity is a positive corporate recognition.",company
+f5c44b78-e6ce-4454-9fd0-807e0434c978,1,"Highlighting a strategic need is a neutral business update.",company
+2066fd54-a01b-41ab-bb94-b4d65ba443d6,1,"Appointment of a board member is a neutral, routine corporate announcement.",company
+13c2a30b-98bb-4f4f-bcd0-543b5c0bbc33,0,"This is an investor alert about a class action lawsuit for substantial losses, a negative event.",company
+bafd93ff-f47e-4b96-ba5e-a3a8aff608fe,2,"Declaring a quarterly common stock dividend is a positive event for shareholders.",company
+c5bc6c0d-68a5-4b52-8fd8-2c1ca802d2c0,2,"The headline mentions the company is now among the ""10 most valuable"" U.S. tech companies and its stock ""surge"".",company
+db6fd31a-7165-49e4-9f21-51e793df4af5,2,"The title explicitly states the stock ""Climbs"".",company
+7a800c7b-0d7a-431a-9287-bdde2125f5ea,1,"General news about the future of Canadian tech without a specific company event.",market
+e06a5ec0-d2eb-4a0c-8f70-69320e347d65,2,"The headline explicitly states stocks ""Climb"" after being tapped for a program.",company
+5e6cd957-328d-4c1c-b6a4-aa2e4f508980,2,"The headline mentions ""Bulls And Bears"" but the sub-headline clearly says ""Markets Rallied In May"".",market
+7b96061e-d052-48be-b2a2-17fe6fba0135,0,"The headline and description point to ""Decline"" and a ""Cautionary Tale"".",company
+d5bf0260-e6dd-4036-9e72-0be815019f27,1,"The article mentions mixed performance and flat futures, with a neutral tone.",market
+4d7075b0-01c1-4f25-bb6a-24a125e7eb0c,0,"The headline states ""Not a pretty picture as tariff fears weigh"".",market
+4429228a-f58a-43ab-847b-b3592407fa13,1,"The headline mentions a battle between bulls and bears and gold outshining tech, which suggests a mixed/neutral sentiment for tech stocks.",market
+e187ee88-e194-47d8-a86b-78838c1c00f1,0,"The headline explicitly states a ""Sell Rating"" and asks if investors should be ""Worried"".",company
+7d744b3a-2532-45cc-8e03-52ca7a9ee6a3,0,"The headline explicitly states ""Futures Drop"" and a ""Momentum Massacre"".",market
+91cb063b-d115-4d3f-9da2-d919d9aa5bb6,2,"The headline mentions the S&P 500 ""turns green"" and a company ""rises again"".",market
+2cc1fe4f-e493-460b-9685-63074e467df2,0,"The headline explicitly states the S&P 500 ""Slips"" and tech stocks ""Falter"".",market
+018e57c7-458f-4dbf-abc9-7c9c206e0b9f,2,"The headline mentions ""Top Dividend Stocks to Buy"", which is a positive recommendation.",company
+71e7f007-9559-431d-be38-f0dfaa5890ae,2,"The headline explicitly states the stock is ""Trading... Higher"".",company
+a6231a37-7d1b-489c-8f85-cb081aa0aac3,2,"UAE pledges a massive $1.4 Trillion investment in US tech, which is a significant positive for the industry.",industry
+3641bdbe-14cd-4e21-8fc7-d4b663436732,0,"The headline and description explicitly state the stock is ""Plummeting"" and ""sinking"".",company
+f719ecb1-5879-44ff-866c-d70aacc7a1e7,2,"The title mentions shares ""surge"" on a strong forecast.",company
+1afc7a75-f6dd-4692-8825-22cda8b39592,2,"The headline states futures are ""steady"" and at ""record highs"".",market
+4d327d8f-2186-4e20-96ee-1ace20054c22,2,"The headline mentions ""Transforming Data Management"" and ""world-first AI-powered NAS"", which are positive advancements for the company.",company
+7fcba54a-0c96-45b4-bba0-e2cf1f66243a,1,"This is an announcement for an event, which is a neutral news item. The term ""Technology Sovereignty"" is also neutral.",company
+00197c93-6efa-492f-8483-78fdf28d95e7,2,"The headline asks a positive-leaning question ""Set to Soar Again"" and the text mentions the stock ""soared 340%"" in the previous year.",company
+7d9fa330-c7e1-47ea-9ac7-b37e29353336,2,"The headline explicitly states ""stocks close higher"".",market
+fa94a308-1a7a-4d88-b542-21a8854c41d6,0,"The headline explicitly states the company was ""hit by cyberattack"" and faces ""operational disruptions"".",company
+edd13a43-a6a2-469b-8da5-119b294793d9,1,"The article compares two stocks, a neutral analysis.",company
+9c34050c-c61f-4a93-ae08-f687d8cbd677,0,"The headline and description mention ""Chip Tariff Threat Sparks Pushback"" and ""Blowback"", which are negative terms.",market
+fe2a00ef-3e66-432c-8ec4-809e6b23f434,2,"The headline mentions a ""Rating Upgrade"" and the article states the stock is a ""buy"".",company
+161c1e89-066c-4603-972f-425c837f9370,2,"The headline and description offer positive predictions and mention improved performance metrics.",company
+263c1056-9cde-46b2-97c0-2dc08c64ad7f,2,"The headline suggests the stock ""Could Soar by 50%"" and says it ""performed well"" previously.",company
+43a5a28d-4628-4060-9e74-53e98cdc12f1,1,"A neutral comparison of a company to its competitors.",company
+eecf06ae-af33-4cd6-9c6e-61dc2f17e643,1,"This is a general analysis of a prediction method, which is neutral and not about a specific event.",market
+72218c92-78b0-429f-94d1-0733b9cec3ff,1,"General news about what ""whales"" are betting, which is a neutral observation on market activity.",company
+1ae50b6e-0ed3-4e15-acd5-a6d0f457cd7c,1,"The headline mentions a company ""challenging"" a competitor, which is a neutral competitive analysis.",company
+c24ce014-ede0-42cc-8dd3-b159a46ba48e,0,"The headline mentions ""Worst Quarter In Years"" and ""AI Bubble Fears"", which are negative terms.",market
+5cf0532c-e9a4-49b2-9e08-0b5d699d9dc3,1,"General geopolitical/trade news, no specific event for the company.",market
+c13d7af5-5696-4cb7-b4b4-7129fe3a5050,0,"The headline mentions Q4 earnings are ""expected to be hit"" by a supply delay, which is a negative forecast.",company
+c6929f16-c4a3-4ba1-a6fe-4757b5308250,1,"This is a general market analysis of a technology, not a specific event for a company.",industry
+b1dac305-7c7c-4940-ab5c-ad51b4016546,2,"The headline states the stock ""Surges"" amid a chip deal.",company
+1c739d76-be7c-47f5-b78c-af0fd7db80fa,0,"The title mentions ""Bubble-Level Valuations"" and ""Can’t Hide"" this, which is a negative-leaning analysis.",market
+689711a6-3be0-488f-83e1-ff8d7ddd94bb,2,"The headline states ""Why I bought a LOT of ASX technology shares"", implying a positive outlook.",industry
+e3489cf9-1a5a-40a1-949b-b464aacc4ccc,2,"The headline mentions ""more upside"" and a price target that ""may justify"" a high price, indicating a positive outlook.",company
+a12ccdee-cf68-4009-beb2-5b5248e0c22b,1,"The headline mentions a ""mixed finish"" and ""ran out of momentum"", which is a neutral-to-slightly-negative outcome.",market
+e84d75ae-0260-4096-b5c7-b84c9c341d9b,1,"Introducing a new product is a neutral business update.",company
+052f5ea0-4d39-4b25-9da8-5867f65c8ee4,2,"The headline states ""Dow jumps"", ""S&P nears record"", and ""Nasdaq climbs"".",market
+a0732479-2645-4bcf-ade0-82d09648d3db,0,"The headline mentions the company ""Scales Down"" IPO plans.",company
+1fa9c452-1a46-41e2-b14c-d1b6f4ac9122,0,"The article compares a stock to a ""meme stock"" and raises questions about its valuation, which is negative.",company
+1eb9f288-09ca-4a84-921e-c216849164b3,0,"The headline states stocks ""cannot get out of the red"".",market
+1222810c-6439-4a03-b084-4de6d86731ef,1,"Appointing a board member is a neutral, routine corporate announcement.",company
+0dc5419a-309f-4d60-b9e1-88cef912db30,0,"The headline explicitly states the market ""starts... with losses"" and ""downturn"".",market
+8dff9907-fc40-454f-ad27-24206a768e10,1,"This is a general analysis on gold as a commodity, which is not directly related to a specific company or market event with a clear sentiment.",market
+2b8a6921-c25a-4d70-ab12-1bf765219bc5,1,"This is a neutral analysis of a company's competition.",company
+7592e144-b61c-4e78-8bbb-672beac48027,2,"Strategic collaboration with a major company like NVIDIA is a positive business development.",company
+c44f8572-3277-4020-b3cf-c0d905d9aa0c,2,"The headline states shares ""firm"" on hopes for trade deals.",market
+ae11e813-732a-471a-94a0-18957cb49375,2,"The headline states indices ""Open Strong"" and are ""up"".",market
+fedab87c-7cdb-4d90-84a8-c3e7054970cc,1,"The headline states stocks are ""mixed"", which is neutral.",market
+27f2d481-1873-43e5-954e-851c233dfa11,2,"The headline and description mention a ""Looming Breakout"" and ""robust growth"" and ""solid demand"".",company
+3e4e21a7-d913-4453-bede-4dcba6ee86ff,1,"The headline mentions ""Mixed Trading"" with tech gains but the Dow slipping, making the overall sentiment neutral.",market
+8187d92e-3b2e-4c6c-988f-8e43b9cfab77,0,"The headline and description state that issues are ""battering stock market sentiment"".",market
+b872e50d-bd5f-4dae-bae6-0064783203bc,2,"The headline asks a positive-leaning question ""To Surge 20%"" and discusses an upcoming earnings report.",company
+1f3dc9e9-1f47-4c35-bde5-af44ee89c10d,0,"The headline mentions the market ""dips"" due to tariff tensions.",market
+bf8cfd71-cbda-4866-9f7e-0d9593ccc4a7,0,"The headline explicitly states the stock ""Falls 9%"" due to tariffs.",market
+6c2240b0-81f0-4405-9207-90b5f14a6841,0,"The headline explicitly states stocks ""Plunge"".",market
+7df79168-4f64-4913-ad73-aa643b0bec33,1,"The headline mentions a mixed day with some gains and some drops, but focuses on the anticipation of earnings which is a neutral event.",market
+c769ebcf-e1ac-4f24-a4d1-bdc968c993b9,0,"The headline states indices ""Retreat"" due to tariff impact.",market
+23706c26-f33d-495b-a882-ec6d063936bc,1,"A neutral analyst blog that highlights several companies without a specific positive or negative event for one.",company
+82ac1921-8891-49cd-835e-c79d72eada05,2,"The headline asks a positive-leaning question ""the Best Big Tech Stock to Buy"".",company
+afa1553d-cd2e-4260-9929-42d1bdc2435b,1,"Silver Lake nearing a deal to acquire a stake is a neutral business transaction.",company
+ad57c277-d43b-440f-898e-d0b6d8ab8b0a,2,"Acquiring shares in a company is a positive transaction for the acquirer.",company
+8843e1ab-48f8-489c-8d39-83fd376a61cc,0,"The headline states ""Equities Stumble"" and mentions ""stagflation fears"".",market
+8d84af38-099a-4f24-a71b-18211bd68265,2,"The headline explicitly states ""Futures Rise"".",market
+93211693-6927-4c16-9dc5-87c27e4c190b,2,"The headline mentions a ""winning streak"" and ""Massive AI Upside Potential"".",company
+43966bbe-e61d-43dd-8570-c084ed16846c,2,"The headline mentions a stock ""Upgrade"" and describes ""revenue growth"" and ""AI-driven growth"".",company
+4ed3fd60-340a-465d-b334-233e8ff8a3e6,1,"Announcing a meeting is a neutral, routine corporate announcement.",company
+1aa52747-be5e-4419-add8-30aece67702f,0,"The headline explicitly states ""U.S. Markets Decline"".",market
+9a8a7637-f066-4efd-95bb-e29a54e0abbe,0,"The headline states ""Dow drops"".",market
+9da0bdef-9e04-413b-9e58-c50dd4ab734a,0,"The headline and description state the stock ""Drops"" due to market downturn.",company
+87cc58a3-808b-4124-aec1-5b1169da59ee,0,"The headline mentions ""Stocks navigate a ‘Fog of Uncertainty’"" and the description mentions ""investor sentiment declines"" and stocks ""struggle"".",market
+78f372d0-16c9-4c28-a9f6-149267a52736,2,"The headline mentions ""rebound"" and companies delivering ""headline-making moves"".",market
+f8fbc868-a37d-4f67-b7d8-bdad083ad78c,2,"The headline mentions the company ""hits the jackpot"" and its stock ""rises over 5%"" due to a trade truce.",company
+e35130f3-cbc1-49a0-9e5e-aaf876b02f68,2,"The headline mentions ""groundbreaking AI advancements"" and a ""70x performance boost"".",company
+5371fe33-bbb2-4026-b659-a10140e8c56e,2,"The headline mentions Big Tech is ""Back In The Driver’s Seat"" and provides ways to ""Profit"".",industry
+0babb451-7a29-441e-b682-fbb9e5e9c3e7,1,"The headline mentions a mixed market, with some indices up and some down, while awaiting trade talks.",market
+33cd12d3-875d-43dc-a229-4167e2794068,0,"The headline explicitly states stocks are ""tanking"".",market
+8779b64b-f828-42d5-a140-5e6f09f78d35,1,"Neutral article about a company attracting investor attention without a specific positive or negative event.",company
+c6628555-e151-4a08-b0d8-7f9dd5f5f1f9,0,"The headline states shares ""fall"" due to a debt offering.",company
+e8f10c50-cc08-4c26-993d-0007b38536bc,0,"The headline explicitly states the market ""tumbles"".",market
+c0397e5e-15ae-4de9-adee-7f8a7cb9fbe4,2,"The article mentions an analyst is ""still bullish"" and expects a ""strong rebound"".",market
+b42dbff0-dc23-46f6-9dd8-2fd08daf0416,2,"The headline explicitly states the index ""Extends Gains"" and stocks ""surge"".",market
+59e00015-2654-4c25-849e-f5285399a508,2,"The headline suggests a decision ""May Help Unleash $150 Trillion"" which is a highly positive event.",market
+7a65bc6c-7b72-4b4b-9b3e-16cd23f77048,2,"The headline mentions positive performance with funds gaining.",market
+c5aef7cf-2a93-4807-b717-09c0fe40e2d8,0,"The headline explicitly states indices ""fall"" and ""slide"".",market
+1391c91f-39d0-4d95-8418-189e421dfe83,1,"Investment update is a neutral, routine corporate announcement.",company
+19e1ec7d-b235-4752-ad30-785c59df85b8,2,"The article mentions a fund ""rose around 65%"" and offers a solution for volatility, which is a positive outlook.",market
+e83591f3-9640-4929-9394-a086b99883dc,2,"The headline offers ""Ultra-Safe... to Buy"" stocks, which is a positive recommendation.",market
+c2ce8e46-5f66-4064-857c-4408f207373d,1,"This is a neutral look at key metrics without a clear positive or negative event being described.",company
+122e8e23-b346-4c0e-9f38-d9dee6b3c2ea,2,"The headline explicitly states tech stocks ""enter bull market"" after a breakthrough.",industry
+a2538d88-09c8-4357-bf2d-5ba54f43ae88,1,"The headline states ""opportunities abound"" but is not focused on a specific company event, making it a general, neutral statement.",market
+9192ea13-65cb-4a93-b6c8-9b1421af51c9,0,"The headline states the stock ""Keeps Falling"" due to debt issues.",company
+1b2cb991-b3ed-4515-b7b8-2c5e1a975446,1,"This is a neutral analysis of whether a company's chips can provide a positive ""tailwind"".",company
+4134cbc9-b9be-437a-9ecc-2aec44371783,1,"Announcing a debenture issue is a neutral financial event.",company
+8e747321-6ed4-4d9a-870f-301faa6effde,2,"The headline explicitly states stocks are ""Seeing Modest Strength"" and ""have moved mostly higher"".",market
+1c95321b-5629-4597-ad47-06f30f1e2252,2,"The headline mentions a ""smart Buy The Dip’ Play"" and a ""monster dividend yield"".",company
+2217659d-1ec1-4df3-932e-bd2e71c5a0c8,0,"The headline and description state the company ""Reduces Dividend"" and that analysts forecast ""potential downside"".",company
+fe8f957a-522d-4c49-92ad-309061da0dd5,0,"The headline explicitly states ""Futures Slide"" on ""disappointing earnings"".",market
+2e73a0de-8e00-4a19-a7eb-fe251c77d479,2,"The headline states the market ""hails US-China trade deal"" and is heading for its ""biggest single-day jumps in months"".",market
+9b76defd-6c2e-43fb-bd41-939993bf140d,0,"The headline explicitly states ""Markets Shudder"" and the S&P had its ""Worst Day In 5 Years"".",market
+521c8903-458c-45d6-af56-3c3e862b4846,0,"The headline explicitly states ""Tech Stocks Decline"" and a company ""Loses $139 Billion in Value"".",market
+928f5e2c-0d09-4328-88a9-b912eecb3b73,1,"A neutral comparison of different technologies.",industry
+4e6353b3-b0d5-4fb1-8cc5-03ce4ff63212,2,"The headline explicitly states ""Dow Pops"" and bitcoin ""Tops $100,000"".",market
+aa091ff3-abae-4848-b9d6-924a23df38e8,2,"The headline mentions shares are ""mostly higher"" and the economy ""looks healthy enough"".",market
+ee8b1e4f-21c5-4a68-9279-ee21098eca19,1,"Announcing results is a neutral event. The sentiment is based on the results themselves, which aren't provided.",company
+918b5c01-6d1a-4678-bb8f-44a7e3edf786,2,"The headline contains the explicitly positive phrase ""It's (Almost) Time to Buy"".",company
+9e435aa8-640b-47f0-8992-075eacdbf095,1,"A neutral, forward-looking article about what to expect from the earnings season.",market
+fa8d36fd-3c53-42ad-af4c-bed54a0848c0,1,"Announcing the date of an earnings release is a neutral, routine corporate announcement.",company
+8d6128a2-11ca-40ca-a6bf-c44e01cf6f88,2,"The headline explicitly states a company ""Has Made a Historic Comeback"" and the article quotes someone saying the situation is ""wildly bullish"".",company
+411eef8f-a2e9-4b6f-9f73-c27feebac035,1,"Neutral analysis of an IPO without a clear positive or negative outcome.",company
+4a6328ce-34ed-424f-ba57-f79e4b0585af,2,"The headline mentions a ""market rally"" as investors ""cheer"" a decision.",market
+046db7b0-7146-4dd7-8eab-e5e05e22cbd9,0,"A lawsuit is a negative event for the company.",company
+42f9602c-eca4-4300-aa53-83e7751dbd7b,0,"The headline explicitly states Wall Street ""Plunges"" and a ""Global Selloff"".",market
+31ee00f7-1436-4430-af8a-b24e26dff7b5,0,"An executive selling a large amount of shares can be perceived as negative news.",company
+827b0770-ad7c-4118-92e3-91f52a1c2d00,0,"The headline contains an explicit ""Downgrade"" and warns the company ""Could Burst The AI Bubble"".",company
+6e09b839-04d2-44c8-b546-4c6028a1b519,1,"The headline mentions ""Bulls vs. Bears"" and a stock that ""slips"" but is a review of results, which are not explicitly stated, so it is a mixed/neutral article.",company
+610c2650-c0e0-4e83-8424-b74f05ce808a,2,"The headline states futures ""jump"" and sentiment is ""lifted"".",market
+71a3b6f4-32c6-461e-9794-b6e03e7bdadf,2,"The headline mentions the company is among the ""Best Stocks to Buy"".",company
+7af60e82-1408-4b46-a81c-87e60039bc64,1,"General news about events to watch for the week ahead, which is a neutral news item.",market
+b0971fed-3518-4c3b-a0a8-1d9ecf7780f2,1,"Reporting quarter and year-end results is a neutral event. The sentiment is based on the results themselves, which aren't provided.",company
+c03be41e-1680-40c8-9b6b-2db81a043fa8,1,"Investment update is a neutral, routine corporate announcement.",company
+c7054a12-ef9b-4ca7-aa53-e8519160877c,1,"A company rejecting a buyout offer is neutral. It could be seen as positive if the company believes it is worth more, but the headline is factual and not overtly positive or negative.",company
+ec00cc7e-ae0b-48e1-b982-a3d2cbe82fbf,0,"The headline and description explicitly state the company had a ""disastrous Q1 2025"" with ""revenue declines"" and ""profitability woes"".",company
+37b49c78-89b6-4dc7-981f-d675f91a6919,2,"The headline explicitly says ""Boost Your Portfolio"" and ""Attractive US Growth Stocks"".",market
+ef573249-32b9-4262-a9a0-a24946152f01,2,"A share repurchase program is a positive event for shareholders, as it reduces the number of outstanding shares.",company
+d2c99966-53e7-428c-9c36-7b3afb29d370,2,"The headline describes a ""Groundbreaking Partnership"" which is a positive development.",company
+20c786c4-3938-49a5-b709-093c849a69e7,0,"The headline and description explicitly state the stock ""Dips"".",company
+63d9741d-2ebc-43d0-87f0-de570c1f8549,0,"The headline explicitly states ""Stocks Plummet"" and mentions ""Recession Fears"".",market
+1e28a8ae-bf81-4ad2-872d-4bc2a815f499,2,"The headline uses the positive phrase ""shakes up"" and mentions ""innovative breakthroughs"" and ""strategic advancements"".",company
+480ab1dd-b00e-42d5-b21a-dc2c8a85db35,1,"An earnings preview is a neutral, forward-looking article. The sentiment depends on the actual earnings, which haven't been released yet.",company
+aef61bbb-bf2c-47b3-a3eb-3b5b89a2c992,1,"The headline mentions companies ""Have to Prove Themselves"" which is a mixed/neutral statement, and the description mentions a drop in searches, which is negative, but the overall tone is not strongly negative.",company
+100192fe-e9bb-4bd2-9849-914180f2a05d,0,"A hedge fund ""Cuts Down On"" stock holdings, which can be perceived as negative sentiment.",company
+77e69f77-7080-44b7-93e5-136f010633e4,2,"The headline explicitly states ""Futures Push Higher Into Record Territory"".",market
+8e5ae411-0c77-4abc-b012-7e74b724472d,0,"A company reducing its stake in another company by a significant amount is generally seen as a negative event for the company whose shares were sold.",company
+68653929-bf0e-4071-8450-c6a63e399d43,0,"The article explicitly states the stock ""Moves -0.15%"".",company
+ce71ce6c-aa9f-4e87-9e47-cee2b2b8506f,2,"The headline mentions a ""Bull Case Theory"" which is explicitly positive.",company
+eb594fcf-8ff2-4c0f-a591-f1456f50d7b4,1,"Earnings call transcript is a neutral, factual document. The sentiment is based on the content of the discussion, which isn't provided.",company
+239895f0-a687-4366-b2b2-f71758424e78,0,"The article explicitly states the stock ""Moves -1.09%"".",company
+966f83b0-c8e3-4838-bfa8-7778fb365c3d,0,"The headline explicitly states investors ""pay for it"" and mentions ""fear of slowing economic growth"".",market
+6b664bce-9f95-47f3-a373-b18f3725bc9e,0,"The headline mentions a ""Tariff Tussle"" and ""Dead Cat Bounce,"" which are negative and mixed terms. The article is focused on the negative impact of tariffs.",market
+53d53a53-0579-4f97-8f03-5ca2757dbdd3,0,"The headline explicitly states a ""Rift May Cap Stock Upside Potential"", which is a negative-leaning analysis.",company
+6f2c3662-0e98-4476-b42c-c5c85740c743,2,"The headline states the stock ""Beats Stock Market Upswing"".",company
+d2e494f1-05ed-4937-a93f-76d515a7aa9a,1,"The headline mentions a small gain but also that the stock ""Lags Market"", making it a mixed/neutral sentiment.",company
+6aa22690-0a8d-44ca-be60-935d7c932774,1,"Announcing participation in an event is a neutral corporate update.",company
+f067b24a-3c84-4685-8e26-f6e515c57406,0,"The headline explicitly states the stock ""Sees a More Significant Dip"" and provides a negative number.",company
+9556e275-4f89-451d-b781-f65396f17b36,0,"The headline mentions ""Criticism"" and ""concern"" about tariffs.",industry
+92ddd2ad-cf23-40a0-ab8d-889e68d9c9e7,2,"The headline explicitly states the company reports ""Strong Fourth Quarter and 2024 Annual Results"".",company
+87980b0c-1c7c-4723-be97-5826deda26e9,0,"The headline explicitly states the company ""Misses Q4 Earnings Estimates"".",company
+2cfaeceb-a47b-4d60-a340-c5d328c92388,2,"The headline explicitly states the S&P 500 ""hits record high"" after a rally.",market
+bdc40ac9-8da7-4fdb-9644-c5bece3293e4,0,"The headline explicitly states the company ""Faces Delays"" and has ""Issues"".",company
+523ff206-2ecc-4c99-b2ff-70fa929718f7,0,"A Fed official saying sentiment data is ""concerning"" is a negative economic statement.",market
+c4e6efc6-fbfe-4ab5-a633-19c73705365a,0,"A CEO bemoaning a ""grossly unfair"" asset cap is a negative statement about a company and the regulatory environment.",company
+bcc5ad58-5968-484e-b918-fe43861611e6,2,"Launching a new AI-powered product is a positive business development.",company
+03cf5df0-3501-413a-bee1-64c1234c6be9,1,"Presenting at a conference is a neutral, routine event.",company
+0aa24364-b739-4890-bfab-9df7b5a324d2,1,"Presenting at a conference is a neutral, routine event.",company
+929df2d1-9aa1-4e4b-b3db-709222524b5e,1,"Appointing new directors and forming a strategic committee is a neutral, routine corporate announcement.",company
+f5c0679c-f91a-43de-89cf-d4ccf3fe0dcd,1,"The article mentions a rally that ""faded"" and a mixed outcome for the market, making it neutral.",market
+d50990a5-dc6d-421d-a596-01d9940c7a05,0,"An insider selling a large number of shares is typically a negative signal for the stock.",company
+1a71e616-7e20-4d43-b6c3-c525f0e3f4a9,0,"The headline explicitly states the stock ""Sinks"".",company
+9ca8504b-ee32-49a4-9090-b232f25e2cae,2,"The headline mentions a ""Cheap 6% Dividend"", which is a positive recommendation for investors.",company
+99ca4f82-c769-4787-a731-36b8a87972a2,1,"A neutral look at key metrics without a clear positive or negative event being described.",company
+41c955d6-ce4c-45b6-9f62-701f9716f2a4,1,"The article mentions ""steady revenue grower"" and ""growth potential"" but the analyst recommends waiting to buy, making the overall sentiment mixed/neutral.",company
+a8ccaf86-43b9-40ac-9711-4aad7d6ee493,0,"The article explicitly states the stock ""Moves -0.42%"".",company
+419c6d45-93ac-4978-9a8c-8713e1c8e6cb,1,"Earnings call transcript is a neutral, factual document. The sentiment is based on the content of the discussion, which isn't provided.",company
+8c6fceb9-0914-40c1-8f5c-08871e6794cb,0,"The headline explicitly states the stock ""Sinks"".",company
+493f4bbb-711a-47a9-bad4-91dfe9300593,1,"Announcing upcoming earnings is a neutral, routine corporate announcement. The analyst expectation of a turnaround is positive but not a confirmed event.",company
+ecb256e4-d0cc-4093-94a4-bed8b74fe4ce,2,"The company received ""Additional funding"" which ""boosts... liquidity"", a positive event.",company
+6a154cb2-dba7-45d3-ac41-6d47628502ae,1,"The article provides a mix of ""buy"" and ""sell"" recommendations and talks about a market that recovered but still declined for the week, making the overall sentiment mixed/neutral.",market
+d7d73516-f1a3-4239-9de1-4d0ccccac882,1,"The article describes a company as a ""wait and see situation"", which is a neutral statement.",company
+cd30ca44-1227-4b53-8004-bc1f779b724d,1,"Announcing a public offering of senior notes is a neutral financial event.",company
+497015aa-bf24-44c7-8d5e-f7292343762e,1,"A general news roundup about companies with preferred stock, which is neutral.",company
+1b1091e1-bf73-4637-bca5-ad83330bf4c3,0,"The headline explicitly states the company's earnings and revenue ""Miss Estimates"".",company
+19f9e812-d8a3-41e3-ac87-602ac9e6b989,2,"The company acquires a property, which is a positive business expansion.",company
+f4bfec1a-b5a5-4b46-8cf3-d44f5da56434,0,"The headline explicitly states the company ""Lags Q4 FFO and Revenue Estimates"".",company
+e8261fca-89a7-4b2e-95bf-9e1968bcd733,1,"Filing a proxy statement is a neutral, routine event.",company
+087a852d-95a4-4cb3-9007-ff4681836cfa,0,"A reminder for investors about a ""Securities Class Action"" is a negative event for the company.",company
+a1c4e491-1ea0-4f78-9070-2fecb3d94aa1,0,"A reminder for investors about a ""Class Action Lawsuit"" is a negative event for the company.",company
+fd5fcb9a-981f-4fb8-a5cf-27c497c36d59,2,"The headline asks a positive-leaning question ""the Best Affordable Tech Stock to Buy?"".",company
+6a967d96-12e8-4dda-ae97-8ecc8cf58c3e,0,"An encouragement for investors to inquire about a ""Securities Fraud Class Action"" is a negative event for the company.",company
+3122df6e-ea85-49d9-b953-def318e49226,2,"The headline states the company ""Receives Buy Rating from Needham"".",company
+72cd8d6f-e95f-448f-bdf3-a0e13d531d7c,1,"Adjusting an earnings announcement date is a neutral, routine corporate announcement.",company
+5cd169da-07f3-4bbb-a418-21ddd2eba5e8,1,"General news about what ""whales"" are betting, which is a neutral observation on market activity.",company
+c449e24f-9af8-46d3-8d67-7dc6e21b2a30,0,"A reminder for investors about a ""Securities Class Action"" is a negative event for the company.",company
+696e1b86-46d4-47c6-8b3a-a224909e5e6e,2,"The headline and description mention ""Best Dividend Stocks to Buy"" and ""reliable income potential"".",market
+f44e6f07-1605-40d9-9b14-2d3af0911e34,2,"The headline explicitly states the company ""Tops Q4 Earnings and Revenue Estimates"".",company
+f6ebaaaa-91aa-4986-b640-06ad5aa2540f,0,"The headline states a company ""Delays"" a filing and that the stock ""experienced a 3.5% drop"".",company
+58f8cd35-be08-43a8-997d-64facbd41ab2,1,"The headline mentions positive ""700% ARR Growth"" but also a negative ""GPU Price War,"" making the overall sentiment mixed.",company
+75b714f5-2db1-4fc9-b180-c407c3fa0955,1,"An article breaking down a stock before an event is a neutral, forward-looking article. The reference to ""Super Bowl of AI"" is a metaphor, not a literal event.",company
+f7ac8582-75ee-4acd-9cad-de561b259dd1,2,"A major company using AI to ""speeding up"" chip design and calling it a ""major productivity opportunity"" is a positive business development.",company
+f853ce76-aeaf-4a86-b764-851c5574907c,2,"The headline explicitly states ""Futures, Global Markets Jump"".",market
+c7a5c852-8f8f-48f7-9c51-520b09add56e,2,"The headline mentions other big tech companies giving a company ""Great News"" and asks a positive-leaning question about if the stock is a ""Buy"".",company
+79d886ed-da4c-4231-b6f3-9f8e08928dca,2,"The headline mentions a stock is among the ""Overlooked Tech Stocks to Buy Now"".",company
+a17ed989-e600-4e70-b9ed-7bcd4d5f7b1d,2,"The headline and description mention stocks to ""Buy and Hold"" and that they could make ""great investments"".",company
+b5be9231-11c4-4439-ac86-fb0e231a3742,1,"The headline asks a neutral question ""Is Nvidia a Buy?"" and the article is an analysis of a report, which is neutral.",company
+e46575e0-91c8-403d-8c42-b5401200180d,0,"The headline explicitly states Wall Street ""dips"" due to tensions.",market
+d23ba652-8429-45ba-a9a9-2b4ac568aa5e,2,"The headline and description mention stock funds for a 401(k) that offer ""long-term growth potential"".",market
+b7bffa1a-2fae-4fba-907a-c4238e87f734,2,"The headline explicitly states ""Stocks are higher"".",market
+a19c73af-e28c-42a1-a314-2beb26f0cb98,1,"An article comparing a company to others that are ""rated higher"" is a mixed/neutral sentiment.",company
+0c36c3cc-ffbb-4210-82c7-0e5926dc56e5,0,"The headline explicitly states the stock ""Drops"" and the company ""Lowers Its Revenue Outlook"".",company
+a4b7491c-f213-43cb-a87c-13124816fc1e,2,"The headline mentions the company's dominance ""remains intact"" and its growth outlook is ""solid"".",company
+b49fae47-8a1c-44cf-9356-88ba4b0e038a,2,"The headline states the S&P 500 ""Approaches Record High"" and mentions ""upward momentum"".",market
+76a9e98d-3808-4ba0-a50b-f1a0bbd13e64,1,"A neutral industry outlook article that highlights companies.",industry
+4fe048b9-7267-4d95-afc7-5c00f73609cc,1,"A neutral article about microcap stocks and their potential future. The title itself is not positive or negative.",market
+dca50edc-2a0a-4cbf-9865-8fc85bdba151,2,"The headline asks if a stock is the ""next NVIDIA and worth buying now?"", which is a positive-leaning question.",company
+5c5873df-6d40-44b5-8f37-250bdda17a3b,1,"The headline mentions negative insider sales but the description mentions analysts forecast ""notable upside potential"", making it a mixed/neutral sentiment.",company
+4b138157-672c-4a0f-bf9c-d9165cd15912,0,"The headline and description mention a warning that export bans are ""backfiring"" and fueling a competitor's rise, which is a negative-leaning article about a company's business environment.",company
+12afaf03-529a-4d5d-82b4-bd9dee415673,2,"The headline mentions the tech rally ""has more room to run"".",industry
+c1182a21-2937-4835-a747-cf02e9f0dcf9,2,"The article mentions a company is ""up 17%"" and ""handily crushing"" the S&P 500, a positive performance.",company
+78cb4500-e380-4aae-977d-4cef64c8c042,2,"The headline states a ""Selloff Overdone"" and the description gives a ""Buy"" rating and mentions ""strong revenue growth"".",company
+f7ce5237-7db4-43ae-b93f-96b8a18a02f8,2,"The headline explicitly states a startup ""raises $75 million"".",company
+4e2bdeba-6602-4a2a-8c19-ae8f7399b9ff,0,"The headline states ""Market Mayhem"", which is a negative term.",market
+4e7381eb-2311-4c45-9126-4f5c6a1a93f5,1,"A company SVP outlining a production roadmap is a neutral, routine business update.",company
+fb1eb992-c2a4-415d-9632-7b9f360aa4ee,2,"The headline explicitly states stocks ""Soar"".",market
+c4385df2-826b-4ba4-989a-a8a763bf1f75,0,"The headline mentions ""March Meltdown"" and ""Queezy Q1"", which are negative terms.",market
+51b0d133-9d65-402c-8d02-e99081732da7,2,"The headline mentions stocks that can ""Power Your Portfolio Higher"".",market
+5e23262b-af25-45c4-9b54-b85fa7163f3f,1,"The article mentions a positive ""blockbuster IPO"" but also a negative ""shocking detail"" about customer concentration and ""material weaknesses"", making the overall sentiment mixed/neutral.",company
+768100a3-b744-46fb-99dc-8d7854cddeb3,2,"The headline mentions ""3 Big AI Dividends"" and a positive impact on corporate profits.",industry
+c6338c9f-ed6d-433f-823e-084aeec47b05,0,"The headline mentions a ""Wake-Up Call That Shook the AI World"" and says tech companies were ""shocked"", which are negative terms.",industry
+9122f11f-07a3-4be6-a5d3-69e128cfa0f6,2,"The headline explicitly states the stock ""rallies"" after a slump.",company
+b89ab146-71f7-4ec1-aa44-be22aa28fe0f,2,"The article mentions a list of ""top 3 gainers"" and that the S&P 500 ""advanced over 4%"", which are positive.",market
+2de11eac-b331-4a67-a025-1725f2a14f23,2,"The headline mentions a ""record winning streak"".",company
+ada2dde2-4921-4655-9f7e-bbee8409b34d,0,"The headline explicitly warns of a ""Coming Stock Market Crash"" and mentions ""dangerous sign"".",market
+c051455f-7860-440e-ae67-23a33dbc6d55,0,"The headline explicitly states stocks ""dip"" and ""declined"".",market
+e3928469-9a80-4223-9369-2ed771032814,2,"The headline mentions a ""Strong Buy"" rating and the description talks about ""diverse growth"" and ""great potential"".",company
+5dec1803-cd94-4d4d-bc83-43aa3837211b,2,"The headline explicitly states ""Revenue Surges"".",company
+2790405b-57e9-4041-b021-11fe98437ab7,1,"General news about options trading is a neutral financial topic.",company
+0b3e641e-999e-404f-bbcb-c0634d2988e7,2,"The headline mentions a company is among the ""Best Performing Dow Stocks"".",company
+c44fbdfd-bf29-41fe-a5f4-f5c0cffec023,1,"The article is a neutral analysis of semiconductor stocks flying under the radar.",industry
+1124c7df-fb2e-4312-a6ef-c09381090b3a,2,"The headline mentions billionaires ""Grow More Than $30 Billion Richer"" and a ""stock rally"".",market
+680e3afe-04e6-4134-8acd-2e9a65ab2bf4,2,"The headline explicitly states ""US Stocks Rise"" and notes a ""third consecutive gain"".",market
+cfd7e539-f84c-42f4-a0bd-872dc9976f4a,1,"The article is a neutral discussion of an analyst's opinion on a stock's price target.",company
+74a5dd24-1209-49ef-8c5e-2e4a4eb214dc,0,"The headline and description explicitly state stocks ""slump"" and ""skid"".",market
+6790cd5b-39cc-4fd1-9627-bf637ba9cf5c,1,"The headline mentions some indices ""rise"" while one ""lags"", making the overall sentiment mixed/neutral.",market
+82da29cb-e2d2-44f3-8858-520be1f7d50f,2,"The headline explicitly states the tech sector ""Hits Record Highs"".",industry
+70e77f39-ff24-412b-9255-20c535c2c89d,1,"A CEO's statement about a future product is a neutral, forward-looking announcement.",company
+f40ab747-fa4a-4139-bc1c-72fa26d67e4b,1,"A year in review is a neutral, retrospective analysis.",industry
+2760dd68-d1d4-4498-a268-ef0bb0c83a21,2,"The headline mentions stocks to ""Buy Like There's No Tomorrow"" and that they could deliver ""explosive returns"".",company
+29086c6f-bbea-4ced-9156-b8fcab1919b6,2,"The headline mentions picks for ""Generational Wealth"", which is a highly positive recommendation.",market
+9edc62a4-aca8-4832-a1e6-1db949a1c8e6,1,"The article mentions a stock has ""soared"" but also faces ""a lot of risks"", making it a mixed/neutral sentiment.",company
+97ea4398-db79-468a-9622-73d4145f527b,2,"The headline and description state the company ""Receives Upgrade"" and an increased price target, which is a positive event.",company
+cf9f4b39-a915-4d40-895c-2f02c3323a0d,0,"The headline explicitly states indexes ""Struggle"".",market
+8d52b050-244e-439c-a045-b6e95650872f,2,"The headline explicitly states ""Futures Rise"".",market
+aed5b889-4efc-4801-b51f-6503e741c53e,0,"The headline states the market ""extended its losses"" and that stocks faced ""sharp declines"".",market
+49582c44-debe-4668-a9d5-801635480b7b,0,"The headline and description explicitly state the market ""Plunges"" and experienced a ""dramatic selloff"".",market
+16f5c6ae-c273-43de-b9b1-65cb83afa11c,0,"The headline asks a question about a stock that ""Has Plunged"", which is a negative event.",market
+c2d13cfa-a19e-4d62-9cd0-2b08bca5eccb,2,"The headline mentions stocks to ""Buy Before They Soar"".",company
+feec6591-d4d3-4bfa-8f9d-2bcadc8cb011,1,"A neutral analyst blog that highlights several companies.",company
+47e4d484-aa14-40e7-b7e3-c1773e30a449,2,"The headline explicitly states the market ""Jumps"" and mentions ""New Buys"".",market
+be687dac-1f86-442b-87f0-96250e284417,0,"The headline explicitly states the S&P 500 ""slides"".",market
+01610d33-0fe2-4072-9932-dce4f6c6b9a0,2,"The headline explicitly states the stock is ""Flying Higher"" and received a ""rating upgrade"".",company
+1355f3cb-8fe7-4476-8f86-8c0b87ff467f,1,"The headline mentions the stock is ""Down 20%"" but asks if it's ""Time to Buy the Dip"", and the description mentions beating estimates, making it a mixed/neutral sentiment.",company
+96dffd18-bc81-4cc5-a69f-4b49195698f7,1,"A neutral analysis of options trading activity.",company
+18146b6e-0f95-4c5a-9166-ec92e02d199b,2,"The headline states a stock is ""surging"".",company
+5205dc4e-3120-4626-b4df-39ef039154ed,1,"The article mentions a positive ""record-breaking year"" but also that ""struggles linger"", making the overall sentiment mixed/neutral.",industry
+8f66c8c2-6dad-4917-a70e-ba12fb96f9ca,2,"The headline mentions a ""Bull Case Theory"" which is explicitly positive.",company
+0ffc4765-b054-4d75-8067-8806eb8d08a3,1,"The article raises questions about spending and mentions the launch of a new app, which is a mixed/neutral sentiment.",industry
+8cae5a4d-d0eb-47ac-89c7-c51f585c3239,0,"The headline explicitly states the S&P 500 ""Retreats"".",market
+a944a46f-4596-4690-9c5d-00c4f1ce0bbd,0,"The article states the IPO price is ""below expected range"" and mentions investor ""skepticism"".",company
+0e284729-c167-4cbb-9e84-d7e98188b951,1,"The article is a neutral analysis of potential winners in the market.",market
+00faa938-145e-4ae0-a364-bf7450f29204,0,"The headline explicitly states semis ""Slide"" on a report.",industry
+e1f82523-4026-4fb3-8109-1f0a9c4b6cde,1,"The headline mentions futures are ""Flat"" while global stocks are at a ""New All Time High"", making it a mixed/neutral statement.",market
+80359232-2383-4e19-a9a8-8f23b845aae8,2,"The description mentions a company ""jumping"" after announcing a partnership.",company
+f691a819-e406-4e66-8fd9-c5452a045059,1,"The headline mentions futures ""stall"" on uncertainty, but the description mentions a ""strong trading session"" and that the S&P 500 ""erased its losses"", making it mixed/neutral.",market
+76418924-9744-4a6f-9792-6d64b2dfd8d3,0,"The headline and description explicitly state a ""Tariff Rout"" and that the Nasdaq is in a ""Bear Market"".",market
+adcd45be-1f02-4f27-9f39-44eb8f99566d,0,"The headline mentions Asian stocks ""May Struggle"" and US shares ""declined"".",market
+51e1f80a-e9be-43b7-8cc1-bbbe985f848c,1,"A neutral article highlighting stock picks for a specific investment strategy.",market
+688aabfa-4ad1-4778-b5c8-92dab3dbd8cc,0,"The headline explicitly warns of a ""Looming Stock Market Correction"" and a ""Biggest Single Day Loss"".",market
+43ce8cb6-80f3-4af6-94ab-de067e6ded8d,2,"The headline explicitly states stocks ""continue the rally"" and provides positive numbers.",market
+d4425776-db08-49cf-bbd4-9876674ae547,2,"The headline asks a positive-leaning question ""the Best FAANG+ Stock to Invest in Right Now?"".",company
+5035b1e4-dedf-4865-9469-a06ef2d29b06,2,"The headline explicitly states ""Stocks Climb"" and notes a ""Rally"".",market
+59ef81e9-69d3-4577-806e-cf8608273a25,0,"The headline explicitly states stocks ""lead Nasdaq lower"" and ""log more losses"".",market
+f8a2af12-bd75-4be7-b3ce-9617df5ad0ef,0,"The headline mentions billionaires ""Have Lost $400 Billion"" and that their fortunes have ""plummeted"".",market
+81d57911-b13f-4610-bd74-1d87b8f97f0a,2,"The headline explicitly states Wall Street ""ends higher"" and mentions gains.",market
+2e44e964-fb1d-46ce-b5b3-1053555298f0,0,"The headline asks a negative question, comparing the current situation to a ""dotcom bust"".",market
+004ab183-da72-4dca-8d4b-7a1a9cf64bcd,1,"A neutral article about a podcast episode on a company and market valuation.",company
+07b02e48-1871-4691-834c-e74d7e88c4be,2,"The headline states the stock ""Barreled 24% Higher"".",company
+e5eb2051-d57b-4a6e-b04b-db793ef0c167,2,"The headline mentions ""3 Picks for Long-Term Growth"", which is a positive recommendation.",market
+cdf071f9-608e-4d39-9c63-87690c97a861,1,"A neutral podcast about a company.",company
+8f70578f-4dab-4ba1-b5bc-7454df38c7b0,1,"The headline mentions ""Volatility"" and ""Anticipation"", which is a neutral state.",company
+4ef80a4b-750e-4bea-bd55-e13022f1d2a8,0,"The headline and description mention ""Another red day on Wall Street"" and a ""market-cap wipeout"".",market
+9625aba9-eb49-4cab-9c5e-5012b9a98602,1,"Earnings call transcript is a neutral, factual document. The sentiment is based on the content of the discussion, which isn't provided.",company
+3127f395-3285-44cf-a6cb-4a8f04ee7af8,1,"An article highlighting women in a specific field is a neutral, informational piece.",industry
+1d12e417-d159-455c-9525-88f0a16d95ac,0,"The headline and description explicitly state the market experienced ""carnage"" and a ""stunning market plunge"".",market
+ab2c906b-4bad-4e11-af97-3caa5f56ac6b,1,"The headline mentions a ""Quick 30% Rally"" but the analyst recommends a ""Hold"", making the overall sentiment mixed/neutral.",company
+e87daf0e-c7ad-4332-afb1-807c2cfa093a,1,"A CEO stating an aspiration to hold an IPO is a neutral, forward-looking statement about a future event.",company
+03f24583-5606-420b-8d89-9ef4dd80a480,2,"The headline explicitly states the company ""outlines 5% to 7% EPS growth"".",company
+f6b1408f-3b17-493c-b598-a9221db3f49b,1,"An article about a company being ""in focus"" for upcoming events is neutral.",company
+e9b0df63-b62b-4e3b-8c66-32fd4df3c595,1,"A neutral article that poses a question about whether a stock is a buy now.",company
+84d8e629-fe0d-40e5-a209-801a1a4d7810,1,"The headline is a general statement about market trends, which is a neutral observation.",market
+1467e845-c5b2-4d33-9bc0-885cb40e0a2e,1,"A neutral look at key metrics without a clear positive or negative event being described.",company
+411d976b-32be-40a2-b339-4f1a1b7a392c,2,"Expanding footprint with new contracts worth millions is a positive business development.",company
+61250d72-d57c-4bc3-b40a-1dcebf5387a3,0,"The headline explicitly states ""Futures Slide"" and jeopardizing a ""Winning Streak"".",market
+a0416440-f2e8-4e98-8e8b-b297ae3d94bd,2,"The headline explicitly states the stock price is ""Up 5.34%"" and ""surged"".",company
+183918af-b71b-46ce-abab-62a5f2e2999a,2,"Declaring a quarterly dividend is a positive event for shareholders.",company
+0b9fa423-58b5-4593-8581-d551d79487fa,1,"An announcement of an IPO filing is a neutral, routine corporate event.",company
+a838ea8c-0d3b-4b94-bfc8-a45074781163,1,"Investment update is a neutral, routine corporate announcement.",company
+6f564f34-d600-4f9c-970c-d06ab65c01c3,2,"The headline asks a positive-leaning question ""the Most Profitable Tech Stock to Buy Now?"".",company
+e9333005-3228-4089-87bb-908dbd96c81b,1,"The headline mentions a stock is ""down 21%"" but asks a positive-leaning question ""Is It Time To Buy?"", making it a mixed/neutral sentiment.",company
+b553a93c-19f3-4f5b-824e-115da870e70a,2,"The headline explicitly states the company ""powers to best weekly advance in over 25 years"".",company
+4f2d655c-2388-4d34-bf25-607e69fbdcc9,2,"The headline mentions stocks with ""Huge Upside Potential"" and an ""artificial intelligence-driven run"".",market
+c716ba5f-f8bc-4157-85a8-768247af105e,0,"The headline explicitly states tariffs ""Trigger Extreme Stock Market Volatility"".",market
+586fd19b-d860-422d-a400-4de3acefd1fc,0,"The article is based on an investor seeing ""no upside"" to a stock, which is a negative opinion.",company
+cfc61a21-9068-482c-890d-341dc236818b,1,"The article is a neutral analysis asking a question about a group of stocks.",market
+b959bef4-a261-4c51-abaf-8069369c4472,2,"The headline explicitly states the stock ""Blasted Higher"" and mentions strong sales and a price target lift.",company
+185e1995-dd8d-4c6a-9bff-facaf966b009,1,"The headline mentions the company ""Fires Up"" the AI race with a ""Bold New Chip Reveal,"" which is positive, but the description says the stock ""fell 1.76%"", making the overall sentiment mixed/neutral.",company
+3358740b-d208-4c2e-9c96-54f95223247d,1,"A general article about investing, which is a neutral topic.",market
+db1b672f-ae27-4f22-8234-86b61ecea833,1,"The article mentions a company plans to issue securities to ""strengthen its financial position"" but also that analysts suggest ""a moderate downside"", making the overall sentiment mixed/neutral.",company
+64f5f108-4c7d-4fd7-88c4-7dcadee23a29,2,"The headline mentions indices ""rise slightly"" and that tech stocks ""power market gains"".",market
+1c8e1ecc-f9b5-43bb-81d2-2b94d3a2509e,2,"The headline mentions a stock ""gain"" that ""leads chip stocks higher"" amid a ""mega deal"".",company
+6f46c1f7-cd57-42f2-b518-5492f14d8e50,0,"The headline explicitly states the market ""sheds $45 billion"" and ""plunges"".",market
+c595f87f-84b9-47af-b098-a262fc888fbb,2,"The headline mentions ""Top 13 Growth Stock Picks"", which is a positive recommendation.",market
+593bf663-0bd9-4cca-80ec-9b71e4839729,2,"The headline mentions ""Top 10 Stocks"", which is a positive recommendation.",market
+65573f02-cd4a-4bb9-94bd-db2393b057b2,1,"A neutral article preparing investors for an earnings report.",company
+8df5d242-71e5-43fd-8ad4-73a392c310e4,1,"A neutral look at key metrics without a clear positive or negative event being described.",company
+e4fbc85c-2b9b-4be6-948b-66a5f3e0c24e,1,"The article mentions a ""selloff"" in the description, which is negative, but the main point is an analyst explaining why a competitor won't impact a company's demand, which is a neutral-to-positive analysis. The overall tone is mixed.",company
+29e16394-0891-4c56-bfde-5565260c4bee,2,"The headline explicitly states stocks ""Soared"" after a company disclosed stakes.",company
+b430db99-37af-406a-b04c-52804b78acd1,1,"Announcing an index review date is a neutral, routine event.",company
+a429d77b-f55e-49dd-8539-bd118b0b7ebe,2,"The article explicitly states a company had a ""107% increase"" in revenue and production ""surged"".",company
+71b7e3cc-5959-44e5-976f-ddb978680aa8,2,"The headline asks a positive-leaning question ""Why Nvidia (NVDA) is a Strong Growth Stock?"".",company
+9d98c581-0269-4a64-a14d-9e9ca1038d49,1,"The headline mentions Asian shares ""decline"" but also a Wall St ""rebound"", making it a mixed/neutral sentiment.",market
+2631a6ee-969e-4b75-9dcc-9a0a0e50abca,1,"A general article about stocks to ""dig into"" which is neutral.",company
+851fa39e-626b-44df-b22a-3f250c3bdd1d,1,"Neutral report highlighting major tech companies.","company"
+f506ae90-6cab-4cc8-8c20-8b3958fdca86,1,"Mixed performance; stock increased but underperformed the market.","company"
+199793f8-5357-4619-9331-104f890615f6,2,"Positive article outlining a 'bull case' for the stock.","company"
+27480ffa-1b55-4452-9946-f81f39032807,2,"Positive framing, questioning if the stock is the 'top stock to buy'.","company"
+d02eb9a7-4e14-43bb-a7c7-6e16b58831c8,0,"Negative sentiment with phrases like 'Tech Lags' and 'Uncertainty Looms'.","industry"
+2e935aa7-504f-4743-af48-679024e66601,0,"Negative outlook, discussing risks that could lead to a market tumble.","industry"
+eb40682e-834c-46ca-9f29-335dc638a709,2,"Positive report of a stock jump and a new acquisition.","company"
+cf963234-6281-463e-b831-67464fc47606,1,"Neutral report on the potential impact of policy changes.","company"
+1ec30685-081c-485e-bf8e-bb12c07ca565,2,"Positive investment rationale highlighting stable cash flow.","company"
+eee05ecf-95a8-4f30-b384-09e4483fdd34,2,"Positive announcement of a large new venture.","company"
+bcf8c096-71eb-469a-9393-f95da154fc76,2,"Positive report of insider buying shares.","company"
+50239d83-e0e9-4832-9dc3-d09977c22393,1,"Neutral transcript of an earnings call.","company"
+c8a48e2c-10eb-40d8-8a0f-3c6e8af0d333,0,"Negative report of stock being 'under pressure'.","company"
+2e53dea0-dcb3-42d7-a38e-a378e07f0e4d,2,"Positive report of stock market gains.","industry"
+3ee4ede2-def9-48ac-b50c-3f08538b98bf,2,"Positive analyst rating and growth forecast.","company"
+65ec91f4-72e3-450c-a050-27f57198c53a,1,"Neutral announcement of leadership changes.","company"
+3f80dd3e-8052-4f3d-95ad-c18e83158b26,1,"Neutral assessment of a company's market position.","company"
+adb339e7-91a3-4693-8c20-a1378ad6d389,0,"Negative report of a stock drop despite market gains.","company"
+a6f50fab-d55f-470f-9197-12a49a740e9d,1,"Neutral to negative report of a stock with no revenues seeing a price increase.","company"
+0348d7b2-9d89-474d-95aa-fab5d4589971,2,"Positive report on fraud reduction.","industry"
+ec1d9862-6be8-4f69-b5ab-92d4c9c0d077,0,"Negative report of a significant drop in sales.","company"
+0a8fe22e-572d-4d0b-9022-bbb87a939d12,0,"Negative report of a stock dipping more than the broader market.","company"
+33655063-fd05-45a9-8450-f56a3585ac25,1,"Neutral report on Q4 earnings metrics.","company"
+9b5e046b-c0ee-4944-9ebb-28bb10276775,1,"Neutral announcement of an upcoming earnings call.","company"
+bf09310b-3bbc-4fa5-ad6b-93bd6ea6ba7e,2,"Positive report of beating earnings and revenue estimates.","company"
+c79cf746-bde9-4957-8c39-c373d32b2189,0,"Negative report of a class action lawsuit.","company"
+ccedfbe9-2274-41f7-bbbd-477b86a72400,2,"Positive stock upgrade and new price target.","company"
+c792170e-a682-470a-ae05-8a9b24bf2f97,2,"Positive article about a top stock for billionaires.","company"
+9b6ab9f2-4562-4f61-9169-3d0061871739,2,"Positive report of futures rising.","industry"
+70ac49f1-a2ce-47e7-ac78-ff2542723f11,2,"Positive report on stocks hitting all-time highs.","company"
+49536355-ac51-4b4e-b11e-b1459ee3a91d,1,"Neutral transcript of an earnings call.","company"
+29cace49-35a8-4b09-a503-3cb4081a93b8,1,"Neutral analysis of retail trader behavior.","industry"
+30d0f74b-aa0d-4b95-bbf2-f20c4d920379,0,"Negative report of exploring strategic alternatives, including a possible sale.","company"
+a8e37227-0295-41ad-b689-d55d33a68e87,2,"Positive article about a top defensive stock.","company"
+0c8e5195-c4c6-4a70-a0ee-b21707ffaac5,2,"Positive report on breakthrough data and new technology.","company"
+a68c633c-41db-4115-8933-817e0e7f5820,0,"Negative headline about consumer sentiment plummeting, though the article mentions a market rally. The overall tone is mixed.","industry"
+ba5b9ec5-0a6c-4a1b-8556-775527575a47,1,"Neutral earnings call presentation.","company"
+a17aaddb-9033-46f0-a42d-d4949b591ce2,0,"Negative report of a stock declining more than the market.","company"
+5b3a8454-c4b8-46e5-8039-2b459a607264,2,"Positive report of futures rising.","industry"
+70b7531c-2911-497e-bcc1-c239c8d901cf,2,"Positive report on a new patient enrollment in a clinical trial.","company"
+0014edb2-930b-4a26-9b98-903f848b4697,1,"Neutral announcement of a financial results webcast.","company"
+183b96ac-8c2a-4b03-be47-0917deacbeb8,1,"Neutral transcript of an earnings call.","company"
+94d60a82-3b0f-4072-9d4c-e9029e4f5aac,2,"Positive market news with markets soaring on relief.","industry"
+faa8899e-6dcb-472f-ae5f-37dd1f2b7237,1,"Neutral report of financial and operating results.","company"
+b9b1e7a8-b4d2-47a1-852c-30f0b31734d2,2,"Positive announcement of a new joint venture.","company"
+c4af0444-bb25-4ecc-9530-e4588e5df3da,1,"Neutral announcement of voting results.","company"
+0baaf2da-b38a-4148-90c3-922ae87a508d,2,"Positive recommendation to buy renewable energy stocks.","industry"
+a80a52ea-b1af-4b66-b736-78c9298bed0a,2,"Positive article about a top defensive stock.","company"
+e72a984a-e049-4eef-8043-bfdccab0e228,1,"Neutral overview of a stock's P/E ratio.","company"
+c3454416-75ee-4e4e-be18-55e5ed2f750b,2,"Positive recommendation for resilient REITs.","industry"
+4ee6b5d4-5dfd-486e-9117-beba96beaeae,1,"Neutral report on Q4 earnings metrics.","company"
+b0529e17-c80a-4c74-9273-b0255b3125d1,2,"Positive report of a 'bear thesis crushed' and a strengthening balance sheet.","company"
+c138a61b-5d76-41ab-bc06-14786219ba6c,2,"Positive report of insider buying shares.","company"
+99603054-0f9d-4eb5-b951-5b2d237b31d1,0,"Negative report of an insider selling stock.","company"
+c6bbff6d-0db7-4924-a9fc-3f62b2303088,2,"Positive report of a reaffirmed 'Buy' rating.","company"
+a4b289ef-32f6-4ef3-981d-c05f4ff18632,2,"Positive analysis suggesting a stock is undervalued.","company"
+87b5fb56-b2c9-4823-ab52-a660d0a56751,0,"Negative report of a law firm's investigation into a company.","company"
+6be70d8d-0c40-424c-9ee4-13785a4bed89,1,"Neutral report on support for policyholders.","company"
+997c7155-a6f6-420d-abee-fc4b67f8ce5c,0,"Negative report of a reduced price target.","company"
+6ddb36e7-5697-4d98-8d5d-7d10b47e51c2,0,"Negative report of a stock declining while the market improves.","company"
+1ff1074d-1809-4f58-a8f9-ae276542a469,1,"Neutral report on a weather event.","region"
+123ec630-4d2c-4cef-9e45-a8155b65968c,2,"Positive analyst note with a bullish coverage initiation.","company"
+cb2bd9c5-f027-4411-9c6f-4654451db35c,0,"Negative report of an insider selling shares.","company"
+73bc11eb-be18-43de-a82a-5a530eee4556,0,"Negative report of a stock's shares gapping down.","company"
+56d07c81-ab70-40d0-b330-7e7c8dc047e8,1,"Neutral announcement of pricing terms for a cash tender offer.","company"
+207f648d-acf8-44a9-b0bd-4ba472c87f53,2,"Positive analysis with a 'Strong Buy' rating.","company"
+ad3d4a2b-35c3-43f3-82f1-4eea78ca7b58,1,"Mixed report of buying one stock while trimming another.","company"
+b39dbae8-35d9-4b85-b714-6abffafd479e,0,"Negative report on competitive threats and a stock drop.","company"
+e933def5-2781-4dd0-a3bd-77b35adb106c,2,"Positive outlook on a company poised to benefit from stimulus.","company"
+50d71ecf-691a-4098-95c5-156eaab2826b,2,"Positive analysis calling a stock the 'smarter bet'.","company"
+5621e32e-c91e-4c5a-ad08-656ab4000a5a,2,"Positive report of stocks ending higher.","industry"
+93af2440-686c-4858-92de-98e162f8d3b9,2,"Positive article about high-growth stocks.","industry"
+92ace4b8-da50-4d29-8ff2-181aef415acb,0,"Negative report on a stock dropping.","company"
+4b779a8f-f165-4741-93d8-a39084555c71,2,"Positive article about a stock that will profit from AI.","company"
+24a5a923-0116-41ce-8ee3-dad8a439602e,2,"Positive report of a stock jump following a new CEO appointment.","company"
+8e53dc55-4c6f-48d1-895c-c60046c960be,0,"Negative report on markets declining.","industry"
+86b05b35-34b1-4ea6-a66c-3154c6a94d5c,1,"Neutral headline report covering finance, technology, and geopolitics.","industry"
+04f27087-bcb0-4c03-88e5-882560e6123e,2,"Positive report of a tech rebound.","industry"
+ce39247d-d124-46d6-9788-47aee74fb54b,2,"Positive earnings and revenue projections.","company"
+ec2666c3-ce3e-4ea6-8b88-c3993788c8fb,2,"Positive announcement of a new AI supercomputer.","company"
+7f5beebf-7321-43a5-93dd-ae686ba78ae5,2,"Positive announcement of enhanced compute platforms.","company"
+84fb94b0-4d1f-44ec-9fb0-de1b0eff7629,2,"Positive analyst rating of a stock.","company"
+6464700c-1d5a-4110-811e-b10992efd34c,2,"Positive report of a new product validation.","company"
+d96411f9-8dd6-4182-9077-8f3cab3fca17,1,"Neutral report on a trending stock.","company"
+b7bc6615-f74b-4460-8eee-5b55dd8f5a6a,0,"Negative report of stocks plummeting.","industry"
+b4ff08b0-66db-465b-a08a-411c7002a678,2,"Positive report of a raised price target.","company"
+a6838400-5e8d-4ab9-94bb-eee4affe431f,1,"Neutral report of futures being flat.","industry"
+a420a414-3b6c-4918-8525-a4df65369d51,1,"Mixed report of stocks closing mixed.","industry"
+4a3d83ae-1dd7-4739-93b8-8f8432aa47a2,1,"Neutral overview of AI policymaking.","industry"
+c80cd47c-d4fd-47a9-ba35-1f4598ea8f92,2,"Positive assertion of sizeable demand for a company's products.","company"
+c0365ecc-64a0-47d1-be39-72b9c7dc4d74,1,"Neutral comparison of two AI stocks.","company"
+5cc915ec-58c0-4920-9693-ad2a1636a025,2,"Positive report of a stock surge and raised price target.","company"
+0cfce753-d2bd-4c2b-b1a3-5cc7699afdcc,1,"Neutral analysis of investment philosophy.","industry"
+bd37651c-bc27-458a-ab9a-afff20004a4d,2,"Positive article suggesting a buying opportunity.","company"
+337aa671-ded5-4257-b6f7-9ca1299981a9,0,"Negative report of futures plunging.","industry"
+6979c8a9-3014-421d-9949-fc279b755feb,1,"Neutral report on jobs data and earnings.","industry"
+1a855ca2-3ec6-4d70-9862-d5a48a02f1cb,0,"Negative, profanity in title suggests a negative outlook.","industry"
+c8fe2518-640f-4e0b-878e-16078aee54c1,0,"Negative view of a company's strategy.","company"
+5db2d1c5-ce82-42bc-93c4-84a4fb86c266,0,"Negative report on a stock stumbling and having an operating loss.","company"
+e488caed-5484-4eef-abfb-e6f3fdd76d8f,1,"Neutral report on a stock attracting investor attention.","company"
+cafde5ef-cd3f-48af-b4cc-6acc857c59a9,2,"Positive report on new chips boosting a stock.","company"
+7c30286d-db39-4f22-a85b-5904613509de,1,"Mixed report of tech rallying but an overall growth outlook cut.","industry"
+13b28c87-e92e-4ce4-8297-0b820596f1da,0,"Negative report of the stock market falling.","industry"
+fe02fc1a-927d-46ea-8224-34b1d52296fd,2,"Positive report on a surge in banker bonuses.","industry"
+1d9d21c1-3143-408b-97c8-74baba48a152,1,"Neutral market analysis.","industry"
+fce61862-1a2f-4962-b8ec-76d3679c3bd7,1,"Neutral exploration of emotion labor in the workplace.","industry"
+3abbd5c4-ad7b-43ec-813d-3979d35b8f52,1,"Neutral comparison of two AI stocks.","company"
+0124ba34-b42e-4084-aeaa-67c8cd013222,1,"Mixed report of Dow futures rising but a specific stock falling.","company"
+2baad2b7-730b-4788-834f-47ff08940c72,2,"Positive report of a stock extending gains.","company"
+84d0a3a1-3a94-45f7-9ba8-d3c1e67c1138,1,"Neutral report on stock sales and an analyst downgrade.","company"
+92f342f4-c1d4-434f-9d3b-9d93d48ebcbf,2,"Positive report of a stock market rally.","industry"
+122646d5-98c7-4b96-8079-3f42c8ee6beb,2,"Positive report of a stock surging amidst trade hopes.","company"
+7b13b3d1-4cab-456d-9bdc-72c488c8ea27,2,"Positive list of 'best AI stocks to buy'.","industry"
+cfc3c463-ff9b-4d65-a6f5-a529fc8da2af,1,"Neutral report on a discussion between a CEO and a government official.","company"
+6f55b99f-40d1-4b15-a66f-ad43a3f10362,2,"Positive report of a major investment firm acquiring shares.","company"
+6f6f34be-a9eb-437e-8fe0-2b40845092c3,1,"Neutral live updates on the stock market.","industry"
+47d4221e-9d76-4b7c-b1dc-704892170d24,2,"Positive report on a stock's price surge.","company"
+6124db36-91f2-4e69-8b73-cebc9ad07d38,2,"Positive report of stocks climbing.","industry"
+72227751-f088-4bf3-9803-87037c6250ca,2,"Positive report on a stock jumping due to a bullish catalyst.","company"
+ebacc97e-7068-4aee-8c49-84650d1c16ad,1,"Neutral competitive analysis.","company"
+fd504e3b-17c4-4747-91cb-517624ebf383,2,"Positive report of a stock advancing while the market declines.","company"
+d26c1026-42db-4f6c-9dd0-084f531986f3,2,"Positive analysis of a company as a 'tariff winner'.","company"
+150093bb-a608-499f-8338-48c2ce99568d,2,"Positive outlook for Asian stocks.","region"
+9c8a6d69-3dbb-4d50-afed-6737113e8876,2,"Positive report of a stock market rally.","industry"
+a271eed8-4bb7-4c74-96aa-ea5ff3756a84,1,"Neutral comparison of two stocks.","company"
+ef7fc859-9a21-499f-8bc7-0c0073c11d7f,2,"Positive report of futures rising.","industry"
+81321cc0-46d5-417c-88ff-d7dfca23e0e4,2,"Positive article about an emerging powerhouse in AI.","company"
+8b42e229-a16a-4df1-9a5e-061aa99c2b1f,0,"Negative report of a stock falling in its market debut.","company"
+e6858ce2-c3b1-4aab-9204-df97bb5f7b05,2,"Positive report of stocks surging.","industry"
+80dea706-a00c-46ad-84d8-30396650b9d4,2,"Positive report of modest gains in equities.","region"
+a6825a69-fd9c-4765-80b3-c186cd62c2c0,1,"Neutral report on the redesign of AI chips for a specific market.","company"
+76066cf8-f9af-494e-8e96-8cce8ae9b104,2,"Positive article recommending two tech stocks to buy.","company"
+ff833c3e-91d6-4f01-87a6-189dcb148a77,2,"Positive article explaining why the author bought a stock on the dip.","company"
+7397ea36-2b27-49db-8709-43b14aab8635,2,"Positive market trend driven by a 'buy-the-dip' mentality.","industry"
+5c01d905-09ac-4063-be30-100747b99855,1,"Neutral explanation of a type of investment product.","industry"
+f5b0d341-d469-4b9c-bf1a-83ff5fa52a7e,2,"Positive report of a stock rallying after a positive analyst rating.","company"
+fcd3f2ea-eb73-432c-98d9-84519205be38,0,"Negative outlook for Asian shares following a US selloff.","region"
+c28ce74c-9c5f-4a18-aebd-fa072c38731a,2,"Positive article about stocks that Wall Street is bullish on.","industry"
+170645ab-38b7-4619-9f13-ac8cbd54a976,2,"Positive outlook with a 'Strong Buy' rating, despite challenges.","company"
+e1fb76e6-7784-4d56-82ee-75cdaebe901a,2,"Positive report of a large new deal for AI data centers.","company"
+efe08504-de1d-4691-b271-df340781b519,2,"Positive article about a company buying back its own stock.","company"
+3f7f251c-c86f-4e6e-8ac9-9059b6803676,1,"Neutral announcement of a stockholder meeting.","company"
+db42e98a-7c39-4420-9306-6e806fe67af8,1,"Neutral technical analysis of a stock.","company"
+1065cddb-a644-45a7-8196-de6f642acdd2,2,"Positive article calling a stock a 'golden buying opportunity'.","company"
+2ced49dc-1e49-4ff1-8294-e8ce82e2caf0,2,"Positive article about a company's turnaround strategy.","company"
+20db8e90-d5b4-4c74-a022-377eec4453a7,1,"Neutral market analysis and commentary.","industry"
+a0f5dcd0-78dd-4390-8b27-dc47f624abe6,2,"Positive market recap with gains across the board.","industry"
+713997ed-25f2-445e-a198-4c5d45e0a0e7,2,"Positive report of a company beating earnings and revenue forecasts.","company"
+5fce739c-a62e-409e-8a8c-73299ed4d2d1,0,"Negative report of markets retreating.","industry"
+18215936-5d60-4b46-905f-4e9006787fb2,0,"Negative report of tech stocks coming under pressure.","industry"
+e1009838-aa4a-4541-b0d7-0ffca1fb6e75,2,"Positive interview with an investor.","industry"
+3d538cfa-17b0-4cc7-8acf-d0842bf09ed5,0,"Negative report of a market sell-off.","industry"
+de384c2a-5e01-48c3-b728-b7d6a689edc0,1,"Neutral investor letter.","company"
+560e3aab-492d-4d51-acd5-ace7e7c2cc8f,1,"Neutral inquiry into competitor dynamics.","company"
+906b9f89-b2e7-4992-9bbf-9a29fb1daae9,0,"Negative analysis with a 'sell' rating due to valuation concerns.","company"
+9d3c3618-5fb1-4873-be87-5af0d20e0609,1,"Neutral article highlighting major tech companies.","company"
+5932d2bc-c67b-4ff7-9f38-c96cc9aee3da,0,"Negative report of a stock's downward slide.","company"
+2ef2ee11-5bb8-4611-99e3-e4034fd9be57,1,"Neutral article discussing a Jim Cramer prediction.","company"
+e4d9e292-52c0-43b4-8d71-6a1cd058f9ff,0,"Negative report of a securities fraud class action lawsuit.","company"
+16f5cac2-7227-46e3-837c-bd564550d515,2,"Positive announcement of a promotion.","company"
+7d2c9782-d7c4-40fc-8b71-68666faa2cf7,2,"Positive outlook on tech stocks from a private equity titan.","industry"
+ab0ed876-b920-4735-b95c-6e5e1f53996f,1,"Mixed report of a Q4 loss but topping revenue estimates.","company"
+e54477b8-301a-47ec-92cf-9659fa60cc0d,0,"Negative report of credit rating downgrades for six banks.","industry"
+7fcdc800-664b-4b32-9675-43dcdd8a1870,2,"Positive report on a company's new chip matching a competitor's performance.","company"
+66075df7-b2da-418a-9a61-fab60e37b640,0,"Negative report of the S&P 500 dipping and several stocks skidding.","industry"
+b1bb7884-f438-470a-a28e-f68f828ab9fb,1,"Mixed weekly review with major indexes falling but rebounding on Friday.","industry"
+6dffa003-8890-45cf-940a-92d1dd699942,2,"Positive report of Wall Street rising.","industry"
+f4e4fa90-38bd-47db-bb3b-3f4d5b495109,1,"Neutral report on the AI stock market going through a period of 'doubt'.","industry"
+aca88f19-212c-4dbf-acd4-47bbf0d365a3,2,"Positive report of the stock market opening higher.","industry"
+94fb83d6-5b0b-42e9-95ea-a18193408d39,0,"Negative report of US markets tumbling.","industry"
+57dedc3c-a90c-40d1-af41-2ddd7882b5c7,0,"Negative report of retail sales stirring concerns.","industry"
+c975632a-c4b2-4662-b438-3c17815c775d,0,"Negative sentiment towards tariffs and their impact on the market.","industry"
+73d43594-134b-40c1-bae0-7eb1e95f2101,1,"Neutral report on OpenAI using Google's AI chips.","company"
+bea12320-df80-446f-a0e5-70738a613b03,1,"Neutral report on a real estate sale.","company"
+8d9b1b5b-b137-46bc-8102-264968ac8c92,0,"Negative report on quantum computing stocks falling.","industry"
+a44b4363-bb84-4dfb-aeaf-1c42bf827bde,2,"Positive report of U.S. equities soaring.","industry"
+61a8b834-e694-42a0-8d73-773c67c4a59f,2,"Positive analysis of a stock's continued rise.","company"
+201b367a-7156-4026-b1a1-87757d586b74,0,"Negative analysis of two challenging investments.","company"
+0a7e843f-321c-4926-ba2a-7d3bc93dce93,0,"Negative report of a law firm's investigation into several companies.","company"
+f5875de9-ad80-4ff1-bd93-32f98bc1cf44,1,"Neutral report on a likely flat open for Wall Street.","industry"
+2a7645d6-9e55-42b6-b1e1-258a0c8abc3e,2,"Positive analysis with a 'buy' rating.","company"
+9e9ee8d1-a019-4e2a-80c6-9b3a98f423f6,0,"Negative report of a rift rattling Wall Street and major indexes taking a hit.","industry"
+f635e445-d673-40db-b4a4-43c8a1ac38c9,1,"Mixed bulls and bears report.","industry"
+eda973af-d6b6-4789-bb8b-27fdbc33ca43,1,"Neutral announcement of an upcoming earnings report.","company"
+7b480042-230e-4315-abca-49a926b41a52,2,"Positive report on a record-breaking funding round.","company"
+1abeff30-ea86-4e06-8eff-d547411cbc07,2,"Positive outlook for U.S. stocks.","industry"
+4262fab7-e9bc-4a14-9181-76f592188701,0,"Negative report of a lowered price target.","company"
+d525093b-de17-4d85-b815-68559717cc3f,1,"Neutral transcript of an earnings call.","company"
+be5c2809-5880-4ba5-a8f7-a8f4fbfa01fb,0,"Negative technical analysis suggesting further potential declines.","company"
+4bb6978c-5681-4dc7-9d11-9b01ce390a10,0,"Negative comment from Jim Cramer about a company's core product.","company"
+c365a4a8-7505-4d0e-a60b-081187916fa7,2,"Positive analysis of a company's leadership and growth.","company"
+80971ad4-b0ce-48b5-91ac-55265a8ed595,2,"Positive report of a stock outperforming the broader market.","company"
+b178f0a5-ec86-43bc-a44f-77f62bf1a92f,1,"Neutral report of a company exploring a potential sale.","company"
+446fd92d-4c90-4653-834c-6bc5f7354b8e,2,"Positive report of the S&P 500 hitting a new record high.","industry"
+0eb9ae0e-39ce-4b89-b12c-c3b3f8cfb05e,1,"Neutral comparison of two AI chip designers.","company"
+5cf9441d-ad72-4aa1-93e7-71f3b93460ca,1,"Neutral article about an up-and-coming EV stock.","company"
+73e36e4f-e920-4b1b-b683-518af890bd4c,1,"Mixed report of analyst ratings on a stock.","company"
+fb30b3e7-4a9c-4aea-9e45-04e3f7b4d597,0,"Negative report of Wall Street drifting after discouraging data.","industry"
+ab06f757-9d5f-4269-9db2-41602795f670,2,"Positive list of stock picks with huge upside potential.","industry"
+5c66cff9-64ef-4f1c-96b8-700b714e4abc,1,"Mixed report with one company beating earnings while the market dropped.","industry"

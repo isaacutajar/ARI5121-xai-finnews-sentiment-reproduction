@@ -1,0 +1,37 @@
+industry,ticker,model,side,window,n_events,car_mean,tstat
+Communication Services,XLC,Market,POS,"[-1,+3]",0,,
+Communication Services,XLC,Market,POS,"[-5,+5]",0,,
+Communication Services,XLC,Market,NEG,"[-1,+3]",2,-0.002102960719062834,-0.42909933758655366
+Communication Services,XLC,Market,NEG,"[-5,+5]",2,0.0014996762507655734,0.2643602127528094
+Consumer Cyclical,XLY,Market,POS,"[-1,+3]",0,,
+Consumer Cyclical,XLY,Market,POS,"[-5,+5]",0,,
+Consumer Cyclical,XLY,Market,NEG,"[-1,+3]",1,0.0017448586446540152,
+Consumer Cyclical,XLY,Market,NEG,"[-5,+5]",1,-0.017172886600440192,
+Energy,XLE,Market,POS,"[-1,+3]",0,,
+Energy,XLE,Market,POS,"[-5,+5]",0,,
+Energy,XLE,Market,NEG,"[-1,+3]",0,,
+Energy,XLE,Market,NEG,"[-5,+5]",0,,
+Financial Services,XLF,Market,POS,"[-1,+3]",0,,
+Financial Services,XLF,Market,POS,"[-5,+5]",0,,
+Financial Services,XLF,Market,NEG,"[-1,+3]",0,,
+Financial Services,XLF,Market,NEG,"[-5,+5]",0,,
+Healthcare,XLV,Market,POS,"[-1,+3]",1,-0.012961993277881972,
+Healthcare,XLV,Market,POS,"[-5,+5]",1,-0.011850703989662668,
+Healthcare,XLV,Market,NEG,"[-1,+3]",0,,
+Healthcare,XLV,Market,NEG,"[-5,+5]",0,,
+Industrials,XLI,Market,POS,"[-1,+3]",0,,
+Industrials,XLI,Market,POS,"[-5,+5]",0,,
+Industrials,XLI,Market,NEG,"[-1,+3]",0,,
+Industrials,XLI,Market,NEG,"[-5,+5]",0,,
+Real Estate,XLRE,Market,POS,"[-1,+3]",0,,
+Real Estate,XLRE,Market,POS,"[-5,+5]",0,,
+Real Estate,XLRE,Market,NEG,"[-1,+3]",0,,
+Real Estate,XLRE,Market,NEG,"[-5,+5]",0,,
+Utilities,XLU,Market,POS,"[-1,+3]",0,,
+Utilities,XLU,Market,POS,"[-5,+5]",0,,
+Utilities,XLU,Market,NEG,"[-1,+3]",0,,
+Utilities,XLU,Market,NEG,"[-5,+5]",0,,
+Technology,XLK,Market,POS,"[-1,+3]",8,0.0008493901609876553,0.20578215567271052
+Technology,XLK,Market,POS,"[-5,+5]",8,0.006497156916471977,0.8129161562050983
+Technology,XLK,Market,NEG,"[-1,+3]",2,-0.007902192418309,-3.966386906292425
+Technology,XLK,Market,NEG,"[-5,+5]",2,-3.487799035920263e-05,-0.0023924729235985016

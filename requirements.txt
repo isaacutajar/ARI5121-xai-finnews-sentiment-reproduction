@@ -1,0 +1,46 @@
+# ============================================================
+# xai-finnews-sentiment — Python 3.13 requirements
+# ============================================================
+# Install with:
+#   pip install -r requirements.txt
+#
+# GPU (optional, faster Transformer inference):
+#   pip install torch==2.10.0 --index-url https://download.pytorch.org/whl/cu121
+# ============================================================
+
+# ── Core data science ────────────────────────────────────────
+numpy==2.3.5
+pandas==3.0.1
+scipy==1.17.0
+scikit-learn==1.8.0
+matplotlib==3.10.8
+seaborn==0.13.2
+joblib==1.5.3
+
+# ── NLP / Transformers ───────────────────────────────────────
+transformers==5.2.0
+accelerate==1.12.0
+datasets==4.5.0
+torch==2.10.0          # CPU wheel; replace with CUDA wheel for GPU
+sentencepiece==0.2.1
+nltk==3.9.2
+
+# ── Explainability ───────────────────────────────────────────
+shap==0.50.0
+interpret==0.7.5
+
+# ── Language detection ───────────────────────────────────────
+langdetect==1.0.9
+langid==1.1.6
+
+# ── Market data / econometrics ───────────────────────────────
+yfinance==1.2.0
+statsmodels==0.14.6
+
+# ── Notebook support ─────────────────────────────────────────
+ipykernel==7.2.0
+ipython==9.10.0
+Jinja2==3.1.6
+
+# ── NLTK data (run once after install) ──────────────────────
+# python -m nltk.downloader vader_lexicon

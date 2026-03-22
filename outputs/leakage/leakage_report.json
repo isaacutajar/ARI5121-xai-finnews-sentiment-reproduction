@@ -1,0 +1,16 @@
+{
+  "present": {
+    "marketaux": true,
+    "gold": true,
+    "fpb": true,
+    "fiqa": true
+  },
+  "summary": {
+    "gold_rows": 600,
+    "gold_enriched_rows": 600,
+    "gold_exact_url": 599,
+    "gold_exact_title_or_text": 595,
+    "gold_near_dupe_pairs": 627,
+    "exclude_ids_n": 600
+  }
+}

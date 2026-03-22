@@ -1,0 +1,8 @@
+{
+  "industry": "Communication Services",
+  "ticker": "XLC",
+  "lag_order": 0,
+  "n_obs": 56,
+  "p_sent_to_ret": 1.0,
+  "p_ret_to_sent": 1.0
+}
