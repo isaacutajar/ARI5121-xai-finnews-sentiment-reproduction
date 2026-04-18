@@ -35,7 +35,7 @@
 \@writefile{toc}{\contentsline {paragraph}{Financial PhraseBank (FPB).}{2}{section*.9}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{FiQA-2018 Headlines.}{2}{section*.10}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Gold annotations.}{2}{section*.11}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Evaluation protocol}{2}{subsection.3.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Evaluation protocol}{3}{subsection.3.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {4}Reproduction Details}{3}{section.4}\protected@file@percent }
 \newlabel{sec:repro}{{4}{3}{Reproduction Details}{section.4}{}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.1}What was clear}{3}{subsection.4.1}\protected@file@percent }
@@ -48,36 +48,36 @@
 \newlabel{tab:results}{{3}{3}{Results on the gold annotation set ($N=599$). $\star $ = key reproduced result. Sorted by macro-F1}{table.caption.12}{}}
 \@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Results on FPB and FiQA benchmark sets.}}{3}{table.caption.13}\protected@file@percent }
 \newlabel{tab:fpb_fiqa}{{4}{3}{Results on FPB and FiQA benchmark sets}{table.caption.13}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Robustness test: reduced training data ablation}{3}{subsection.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Robustness test: reduced training data ablation}{4}{subsection.5.2}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Macro-F1 of TF-IDF+LR (FPB) as training data is reduced. Error bars show standard deviation across 3 seeds.}}{4}{figure.caption.14}\protected@file@percent }
 \newlabel{fig:ablation}{{1}{4}{Macro-F1 of TF-IDF+LR (FPB) as training data is reduced. Error bars show standard deviation across 3 seeds}{figure.caption.14}{}}
 \@writefile{toc}{\contentsline {section}{\numberline {6}Error Analysis}{4}{section.6}\protected@file@percent }
 \newlabel{sec:errors}{{6}{4}{Error Analysis}{section.6}{}}
+\@writefile{toc}{\contentsline {paragraph}{Example 1 - Polarity reversal: domain jargon (True: Negative, Pred: Positive).}{4}{section*.16}\protected@file@percent }
 \@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Error categories for fine-tuned FinBERT on the gold test set ($n=20$ errors, $89$ total). ``Negation scope'' counts only true grammatical negators (\textit  {not, no, never, without, neither, nor}).}}{4}{table.caption.15}\protected@file@percent }
 \newlabel{tab:errors}{{5}{4}{Error categories for fine-tuned FinBERT on the gold test set ($n=20$ errors, $89$ total). ``Negation scope'' counts only true grammatical negators (\textit {not, no, never, without, neither, nor})}{table.caption.15}{}}
-\@writefile{toc}{\contentsline {paragraph}{Example 1 — Polarity reversal: domain jargon (True: Negative, Pred: Positive).}{4}{section*.16}\protected@file@percent }
-\@writefile{toc}{\contentsline {paragraph}{Example 2 — Polarity reversal (True: Positive, Pred: Negative).}{4}{section*.17}\protected@file@percent }
-\@writefile{toc}{\contentsline {paragraph}{Example 3 — Neutral boundary confusion (True: Neutral, Pred: Positive).}{4}{section*.18}\protected@file@percent }
-\@writefile{toc}{\contentsline {paragraph}{Example 4 — Negation scope (True: Positive, Pred: Negative).}{4}{section*.19}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Example 2 - Polarity reversal (True: Positive, Pred: Negative).}{4}{section*.17}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Example 3 - Neutral boundary confusion (True: Neutral, Pred: Positive).}{4}{section*.18}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Example 4 - Negation scope (True: Positive, Pred: Negative).}{4}{section*.19}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Discussion.}{4}{section*.20}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {7}Way Forward}{5}{section.7}\protected@file@percent }
 \newlabel{sec:forward}{{7}{5}{Way Forward}{section.7}{}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {7.1}Cross-domain generalisation test}{5}{subsection.7.1}\protected@file@percent }
 \@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Cross-domain generalisation. zs: zero-shot; ft: fine-tuned; G: Gold Marketaux.}}{5}{table.caption.21}\protected@file@percent }
 \newlabel{tab:crossdomain}{{6}{5}{Cross-domain generalisation. zs: zero-shot; ft: fine-tuned; G: Gold Marketaux}{table.caption.21}{}}
+\@writefile{toc}{\contentsline {paragraph}{Forward direction (FPB/FiQA $\to $ Gold).}{5}{section*.23}\protected@file@percent }
 \@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Symmetric cross-domain macro-F1. Blue = FPB in-domain; orange = cross-domain transfer (both directions); green = gold in-domain upper bound.}}{5}{figure.caption.22}\protected@file@percent }
 \newlabel{fig:crossdomain}{{2}{5}{Symmetric cross-domain macro-F1. Blue = FPB in-domain; orange = cross-domain transfer (both directions); green = gold in-domain upper bound}{figure.caption.22}{}}
-\@writefile{toc}{\contentsline {paragraph}{Forward direction (FPB/FiQA $\to $ Gold).}{5}{section*.23}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Reverse direction (Gold $\to $ FPB).}{5}{section*.24}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {8}Conclusion}{5}{section.8}\protected@file@percent }
 \newlabel{sec:conclusion}{{8}{5}{Conclusion}{section.8}{}}
-\@writefile{toc}{\contentsline {paragraph}{Limitations.}{5}{section*.25}\protected@file@percent }
 \bibdata{references}
 \bibcite{araci2019finbert}{{1}{2019}{{Araci}}{{}}}
 \bibcite{xai_finnews_2025}{{2}{2025}{{Cristescu and Mara}}{{}}}
 \bibcite{hutto2014vader}{{3}{2014}{{Hutto and Gilbert}}{{}}}
 \bibcite{maia2018fiqa18}{{4}{2018}{{Maia et~al.}}{{Maia, Handschuh, Freitas, Davis, McDermott, Balahur, and Zadeh}}}
-\bibcite{malo2014good}{{5}{2014}{{Malo et~al.}}{{Malo, Sinha, Korhonen, Wallenius, and Takala}}}
+\bibcite{malo2014good}{{5}{2013}{{Malo et~al.}}{{Malo, Sinha, Korhonen, Wallenius, and Takala}}}
+\@writefile{toc}{\contentsline {paragraph}{Limitations.}{6}{section*.25}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Lessons learned.}{6}{section*.26}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {A}Experiment Log}{6}{appendix.A}\protected@file@percent }
 \newlabel{app:log}{{A}{6}{Experiment Log}{appendix.A}{}}
@@ -87,4 +87,4 @@
 \newlabel{app:repro}{{B}{6}{Reproducibility Package}{appendix.B}{}}
 \@writefile{toc}{\contentsline {paragraph}{Minimum requirements.}{6}{section*.29}\protected@file@percent }
 \@writefile{toc}{\contentsline {paragraph}{Reproduce main result (Table~\ref {tab:results}).}{6}{section*.30}\protected@file@percent }
-\gdef \@abspage@last{6}
+\gdef \@abspage@last{7}

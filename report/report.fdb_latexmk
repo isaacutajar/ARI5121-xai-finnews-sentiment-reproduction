@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex report"] 1774105987.61426 "report.aux" "report.bbl" "report" 1774105989.589 0
+["bibtex report"] 1776507595.6508 "report.aux" "report.bbl" "report" 1776507615.45994 0
   "./acl_natbib.bst" 1772695693 45186 3d1af46d62cc9172ef6e42b56c1cd613 ""
-  "./references.bib" 1774103072 3020 4e7aed29ea7319de821d445f34a54539 ""
-  "report.aux" 1774105988 9508 abeef2d9d547f26805b27c2415ae8ad3 "pdflatex"
+  "./references.bib" 1776501253 3068 a2fcfcb7efd2a31b3ce4bee138c6a668 ""
+  "report.aux" 1776507614 9500 2b734256457069d504b04cfb3898e5c2 "pdflatex"
   (generated)
   "report.bbl"
   "report.blg"
   (rewritten before read)
-["pdflatex"] 1774105987.95603 "c:/Python/xai-finnews-sentiment/report/report.tex" "report.pdf" "report" 1774105989.58987 0
+["pdflatex"] 1776507613.70408 "c:/Python/ARI5121-xai-finnews-sentiment-reproduction/report/report.tex" "report.pdf" "report" 1776507615.46084 0
   "../outputs/figures/ablation_reduced_data.png" 1774026895 37525 2fb02326057604d09ba914f7f65860a9 ""
   "../outputs/figures/cross_domain_symmetric.png" 1774027535 43082 91c9d7f90d95ef6afcac3b1bf4bb9df1 ""
   "C:/Users/iscu02/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1774030133 82507 a9eef8696c92627b87e9975edea03b2a ""
@@ -130,11 +130,11 @@
   "C:/Users/iscu02/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/iscu02/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "acl.sty" 1772695679 11615 e2c027f483aa40e577ed34264c8b0655 ""
-  "c:/Python/xai-finnews-sentiment/report/report.tex" 1774105979 29202 d9fdcc3bc394f76484578f9db1a7f170 ""
-  "report.aux" 1774105988 9508 abeef2d9d547f26805b27c2415ae8ad3 "pdflatex"
-  "report.bbl" 1774105987 1674 7fee0024e57b174f57475e70e6525894 "bibtex report"
-  "report.out" 1774105988 3091 619e9d00553956e904b951913c393bdf "pdflatex"
-  "report.tex" 1774105979 29202 d9fdcc3bc394f76484578f9db1a7f170 ""
+  "c:/Python/ARI5121-xai-finnews-sentiment-reproduction/report/report.tex" 1776507613 30191 e316b181118877616ece8fcdf673ec23 ""
+  "report.aux" 1776507614 9500 2b734256457069d504b04cfb3898e5c2 "pdflatex"
+  "report.bbl" 1776507595 1716 b6a3cb83cba9640c32f83710a8930ac3 "bibtex report"
+  "report.out" 1776507614 3091 619e9d00553956e904b951913c393bdf "pdflatex"
+  "report.tex" 1776507613 30191 e316b181118877616ece8fcdf673ec23 ""
   (generated)
   "report.aux"
   "report.log"
