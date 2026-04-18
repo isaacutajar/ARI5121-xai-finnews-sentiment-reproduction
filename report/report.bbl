@@ -28,12 +28,12 @@ Macedo Maia, Siegfried Handschuh, Andr{\'e} Freitas, Brian Davis, Ross
 \newblock {FiQA}: An opinion-based question answering dataset.
 \newblock In \emph{Companion of the Web Conference 2018}, pages 211--218.
 
-\bibitem[{Malo et~al.(2014)Malo, Sinha, Korhonen, Wallenius, and
+\bibitem[{Malo et~al.(2013)Malo, Sinha, Korhonen, Wallenius, and
   Takala}]{malo2014good}
 Pekka Malo, Ankur Sinha, Pekka Korhonen, Jyrki Wallenius, and Pyry Takala.
-  2014.
-\newblock Good debt or bad debt: Detecting semantic orientations in economic
-  texts.
+  2013.
+\newblock \href {https://arxiv.org/abs/1307.5336} {Good debt or bad debt:
+  Detecting semantic orientations in economic texts}.
 \newblock \emph{Journal of the Association for Information Science and
   Technology}, 65(4):782--796.
 

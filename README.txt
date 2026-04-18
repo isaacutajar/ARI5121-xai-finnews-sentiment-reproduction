@@ -209,13 +209,6 @@ python scripts/13_backtest_sector_strategies.py
 bash
 python scripts/15_data_leakage_guard.py
 
-
-### Helper: fetch SPDR sector ETFs (+ SPY) from Yahoo
-bash
-python scripts/_helper_fetch_sector_etfs.py
-
-Writes CSVs to `data/market/etf/` with standardized OHLCV columns.
-
 ---
 
 ## Key outputs (examples)
@@ -249,39 +242,3 @@ Writes CSVs to `data/market/etf/` with standardized OHLCV columns.
 - Deterministic seeds where applicable (`SEED=42` in `_config.py`); minor variance possible across library versions.
 - CPU works for everything except heavy Transformer inference; GPU recommended for Transformers.
 - Paths, thresholds, industry sets, and batch sizes are centralized in `scripts/_config.py`.
-
----
-
-## Licensing
-
-- **Code (this repo):** MIT License  
-- **Manual labels** (`data/annotation/annotated_articles.csv`) and docs: CC BY 4.0  
-- **Third‑party assets:** original licenses/terms apply  
-- **Loughran–McDonald Master Dictionary:** downloaded from Notre Dame SRAF — check their terms before redistribution  
-- **Marketaux content:** subject to Marketaux API Terms  
-- **ProsusAI/FinBERT, FPB, FiQA, VADER, XLM‑R:** governed by original licenses
-
----
-
-## Citation
-
-If this repo helps your work, please cite:
-
-bibtex
-@software{XAI_FinNews_Sentiment_2025,
-  title  = {xai-finnews-sentiment: Explainable Financial News Sentiment Toolkit},
-  year   = {2025},
-  author = {Repository Authors},
-  url    = {https://github.com/MaraAlexandru/xai-finnews-sentiment}
-}
-
-
----
-
-## Acknowledgements
-
-- Loughran & McDonald for the Master Dictionary  
-- ProsusAI for FinBERT  
-- CardiffNLP & nlptown for multilingual models  
-- FPB and FiQA dataset contributors  
-- Marketaux for API access

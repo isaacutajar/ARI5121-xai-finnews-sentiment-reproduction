@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.20)  21 MAR 2026 16:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.20)  18 APR 2026 12:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Python/xai-finnews-sentiment/report/report.tex
-(c:/Python/xai-finnews-sentiment/report/report.tex
+**c:/Python/ARI5121-xai-finnews-sentiment-reproduction/report/report.tex
+(c:/Python/ARI5121-xai-finnews-sentiment-reproduction/report/report.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (C:\Users\iscu02\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -476,28 +476,43 @@ Underfull \hbox (badness 1769) in paragraph at lines 44--67
 \OT1/ptm/m/n/10 (+20) TF-IDF + Lo-gis-tic Re-gres-sion (LR), and
  []
 
+
+Underfull \hbox (badness 4108) in paragraph at lines 113--117
+[]\OT1/ptm/b/n/10.95 (+20) Data in-ges-tion \OT1/ptm/m/n/10.95 (+20) (scripts \OT1/pcr/m/n/10.95 01\OT1/ptm/m/n/10.95 (+20) {\OT1/pcr/m/n/10.95 02\OT1/ptm/m/n/10.95 (+20) ): FPB
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 113--117
+\OT1/ptm/m/n/10.95 (+20) and FiQA are fetched from Hug-ging-
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 113--117
+\OT1/ptm/m/n/10.95 (+20) Face; Mar-ke-taux news is parsed from
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 113--117
+\OT1/ptm/m/n/10.95 (+20) a lo-cal JSON file. Lan-guage de-tec-tion
+ []
+
 [1{C:/Users/iscu02/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/iscu02/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 117--120
-[]\OT1/ptm/b/n/10.95 (+20) Lexicon con-struc-tion \OT1/ptm/m/n/10.95 (+20) (\OT1/pcr/m/n/10.95 03\OT1/ptm/m/n/10.95 (+20) ): The
+Underfull \hbox (badness 1997) in paragraph at lines 117--120
+[]\OT1/ptm/b/n/10.95 (+20) Lexicon con-struc-tion \OT1/ptm/m/n/10.95 (+20) (script \OT1/pcr/m/n/10.95 03\OT1/ptm/m/n/10.95 (+20) ): The
  []
 
 
-Underfull \hbox (badness 5696) in paragraph at lines 117--120
-\OT1/ptm/m/n/10.95 (+20) Loughran{McDonald (LM) Mas-ter Dic-
+Underfull \hbox (badness 2393) in paragraph at lines 126--130
+[]\OT1/ptm/b/n/10.95 (+20) Gold eval-u-a-tion & fine-tuning \OT1/ptm/m/n/10.95 (+20) (scripts
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
-[]\OT1/ptm/b/n/10.95 (+20) Econometrics \OT1/ptm/m/n/10.95 (+20) (\OT1/pcr/m/n/10.95 11\OT1/ptm/m/n/10.95 (+20) {\OT1/pcr/m/n/10.95 13\OT1/ptm/m/n/10.95 (+20) ): Event study
- []
-
-
-Underfull \hbox (badness 3713) in paragraph at lines 132--134
-\OT1/ptm/m/n/10.95 (+20) (AR/CAR), VAR/Granger causal-ity, and
+Underfull \hbox (badness 1360) in paragraph at lines 130--132
+[]\OT1/ptm/b/n/10.95 (+20) Explainability \OT1/ptm/m/n/10.95 (+20) (scripts \OT1/pcr/m/n/10.95 10\OT1/ptm/m/n/10.95 (+20) , \OT1/pcr/m/n/10.95 16\OT1/ptm/m/n/10.95 (+20) ): SHAP
  []
 
 
@@ -535,87 +550,86 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 24
  (C:\Users\iscu02\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Overfull \hbox (31.19466pt too wide) in paragraph at lines 282--296
+Overfull \hbox (31.19466pt too wide) in paragraph at lines 283--297
  [][] 
  []
 
-<../outputs/figures/ablation_reduced_data.png, id=150, 499.26524pt x 281.853pt>
+[3]
+<../outputs/figures/ablation_reduced_data.png, id=157, 499.26524pt x 281.853pt>
 File: ../outputs/figures/ablation_reduced_data.png Graphic file (type png)
 <use ../outputs/figures/ablation_reduced_data.png>
-Package pdftex.def Info: ../outputs/figures/ablation_reduced_data.png  used on input line 336.
+Package pdftex.def Info: ../outputs/figures/ablation_reduced_data.png  used on input line 343.
 (pdftex.def)             Requested size: 197.17618pt x 111.31566pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4 <../outputs/figures/ablation_reduced_data.png>]
-Overfull \hbox (0.60669pt too wide) in paragraph at lines 460--460
+[4 <../outputs/figures/ablation_reduced_data.png>]
+Overfull \hbox (0.60669pt too wide) in paragraph at lines 467--467
 []|\OT1/ptm/m/n/9 (-20) FiQA$\OMS/cmsy/m/n/9 !$\OT1/ptm/m/n/9 (-20) G| 
  []
 
 <../outputs/figures/cross_domain_symmetric.png, id=175, 860.61525pt x 317.988pt>
 File: ../outputs/figures/cross_domain_symmetric.png Graphic file (type png)
 <use ../outputs/figures/cross_domain_symmetric.png>
-Package pdftex.def Info: ../outputs/figures/cross_domain_symmetric.png  used on input line 471.
+Package pdftex.def Info: ../outputs/figures/cross_domain_symmetric.png  used on input line 478.
 (pdftex.def)             Requested size: 219.08614pt x 80.94757pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [5 <../outputs/figures/cross_domain_symmetric.png>] (report.bbl)
-Overfull \hbox (40.5684pt too wide) in paragraph at lines 552--567
+Overfull \hbox (40.5684pt too wide) in paragraph at lines 561--576
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 576--577
+Underfull \hbox (badness 10000) in paragraph at lines 585--586
 []\OT1/ptm/m/n/10.95 (+20) Python 3.13, pack-ages listed in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--578
+Underfull \hbox (badness 10000) in paragraph at lines 586--587
 []\OT1/pcr/m/n/10.95 python -m nltk.downloader
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--585
-[]$\OT1/pcr/m/n/10.95 pythonscripts / 01 _ fetch _
+Underfull \hbox (badness 10000) in paragraph at lines 596--597
+[]$\OT1/pcr/m/n/10.95 scripts / 04 _ lexicon _ baselines .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 585--586
-[]$\OT1/pcr/m/n/10.95 pythonscripts / 03 _ build _ lm _
+Underfull \hbox (badness 10000) in paragraph at lines 597--598
+[]$\OT1/pcr/m/n/10.95 scripts / 05 _ lr _ shap _ benchmarks .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 586--587
-[]$\OT1/pcr/m/n/10.95 pythonscripts / 04 _ lexicon _
+Underfull \hbox (badness 10000) in paragraph at lines 598--599
+[]$\OT1/pcr/m/n/10.95 scripts / 06 _ finbert _ benchmarks .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 587--588
-[]$\OT1/pcr/m/n/10.95 pythonscripts / 05 _ lr _ shap _
+Underfull \hbox (badness 10000) in paragraph at lines 599--600
+[]$\OT1/pcr/m/n/10.95 scripts / 08 _ eval _ on _ manual _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 588--589
-[]$\OT1/pcr/m/n/10.95 pythonscripts / 06 _ finbert _
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+[]$\OT1/pcr/m/n/10.95 scripts / 08b _ finetune _ and _ eval .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 589--590
-[]$\OT1/pcr/m/n/10.95 pythonscripts / 08 _ eval _ on _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 590--591
-[]$\OT1/pcr/m/n/10.95 pythonscripts / 08b _ finetune _
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 592--594
+Underfull \hbox (badness 1264) in paragraph at lines 602--604
 \OT1/ptm/m/n/10.95 (+20) Then open \OT1/pcr/m/n/10.95 assignment[]notebook.ipynb
  []
 
-[6] (report.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--604
+
+ []
+
+[6] [7
+
+] (report.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -624,17 +638,17 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 619E9D00553956E904B951913C393BDF;3091.
  ) 
 Here is how much of TeX's memory you used:
- 14989 strings out of 467867
- 237771 string characters out of 5417850
- 701586 words of memory out of 5000000
+ 14975 strings out of 467867
+ 237894 string characters out of 5417850
+ 702586 words of memory out of 5000000
  43211 multiletter control sequences out of 15000+600000
- 681435 words of font info for 355 fonts, out of 8000000 for 9000
+ 680940 words of font info for 345 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,16n,93p,1042b,562s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,16n,93p,1063b,562s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/iscu02/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/iscu02/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/iscu02/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/iscu02/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/iscu02/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/iscu02/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/iscu02/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/iscu02/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/iscu02/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/iscu02/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/iscu02/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on report.pdf (6 pages, 265452 bytes).
+Output written on report.pdf (7 pages, 267773 bytes).
 PDF statistics:
- 268 PDF objects out of 1000 (max. 8388607)
- 70 named destinations out of 1000 (max. 500000)
+ 277 PDF objects out of 1000 (max. 8388607)
+ 71 named destinations out of 1000 (max. 500000)
  82091 words of extra memory for PDF output out of 89155 (max. 10000000)
 
