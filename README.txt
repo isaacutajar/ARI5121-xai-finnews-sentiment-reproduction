@@ -67,10 +67,12 @@ outputs/
   granger/                       # VAR/Granger summaries
   backtest/                      # strategy daily curves & summaries
   leakage/                       # leakage audit reports
+report/                          # the documentation for this project
 scripts/                          # all CLI pipelines (see below)
 Loughran-McDonald_MasterDictionary_1993-2024.xlsx  # (optional, for LM rebuild)
+assignment_notebook.ipynb         # the notebook with the experiments and way forward
 README.md
-
+requirements.txt
 
 ---
 
